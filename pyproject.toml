@@ -10,7 +10,7 @@ authors = [
 ]
 license = {file = "LICENSE"}
 description = "A limited python implementation of clusterProfiler from R"
-readme = "README.rst"
+readme = "README.md"
 requires-python = ">=3.9"
 classifiers = [
     "Programming Language :: Python :: 3.9",
