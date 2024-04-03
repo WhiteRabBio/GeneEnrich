@@ -90,3 +90,8 @@ options:
                         info.
 ```
 
+
+
+##### Citation
+
+Yu, Guangchuang et al. “clusterProfiler: an R package for comparing biological themes among gene clusters.” *Omics : a journal of integrative biology* vol. 16,5 (2012): 284-7. doi:10.1089/omi.2011.0118
