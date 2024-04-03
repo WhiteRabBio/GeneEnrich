@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=61.2"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pyGeneEnrich"
+version = "0.0.1"
+authors = [
+  { name="WhiteRabBio" },
+]
+license = {file = "LICENSE"}
+description = "A limited python implementation of clusterProfiler from R"
+readme = "README.rst"
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3.9",
+    "Intended Audience :: Science/Research",
+    "Topic :: Scientific/Engineering :: Bio-Informatics",
+    "License :: OSI Approved :: MIT License"
+]
+
+[project.urls]
+Homepage = "https://github.com/WhiteRabBio/GeneEnrich"
+
+[project.scripts]
+GeneEnrich = "GeneEnrich.base_cli:main"
+
+[tool.setuptools.dynamic]
+version = {attr = "GeneEnrich.__version__"}
+dependencies = {file = "requirements.txt"}
