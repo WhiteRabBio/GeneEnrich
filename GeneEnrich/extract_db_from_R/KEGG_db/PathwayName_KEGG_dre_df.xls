@@ -1,0 +1,549 @@
+pathid	pathname
+dre00010	Glycolysis / Gluconeogenesis
+dre00020	Citrate cycle (TCA cycle)
+dre00030	Pentose phosphate pathway
+dre00040	Pentose and glucuronate interconversions
+dre00051	Fructose and mannose metabolism
+dre00052	Galactose metabolism
+dre00053	Ascorbate and aldarate metabolism
+dre00061	Fatty acid biosynthesis
+dre00062	Fatty acid elongation
+dre00071	Fatty acid degradation
+dre00073	Cutin, suberine and wax biosynthesis
+dre00100	Steroid biosynthesis
+dre00120	Primary bile acid biosynthesis
+dre00121	Secondary bile acid biosynthesis
+dre00130	Ubiquinone and other terpenoid-quinone biosynthesis
+dre00140	Steroid hormone biosynthesis
+dre00190	Oxidative phosphorylation
+dre00195	Photosynthesis
+dre00196	Photosynthesis - antenna proteins
+dre00220	Arginine biosynthesis
+dre00230	Purine metabolism
+dre00232	Caffeine metabolism
+dre00240	Pyrimidine metabolism
+dre00250	Alanine, aspartate and glutamate metabolism
+dre00253	Tetracycline biosynthesis
+dre00254	Aflatoxin biosynthesis
+dre00260	Glycine, serine and threonine metabolism
+dre00261	Monobactam biosynthesis
+dre00270	Cysteine and methionine metabolism
+dre00280	Valine, leucine and isoleucine degradation
+dre00281	Geraniol degradation
+dre00290	Valine, leucine and isoleucine biosynthesis
+dre00300	Lysine biosynthesis
+dre00310	Lysine degradation
+dre00311	Penicillin and cephalosporin biosynthesis
+dre00330	Arginine and proline metabolism
+dre00331	Clavulanic acid biosynthesis
+dre00332	Carbapenem biosynthesis
+dre00333	Prodigiosin biosynthesis
+dre00340	Histidine metabolism
+dre00350	Tyrosine metabolism
+dre00360	Phenylalanine metabolism
+dre00361	Chlorocyclohexane and chlorobenzene degradation
+dre00362	Benzoate degradation
+dre00363	Bisphenol degradation
+dre00364	Fluorobenzoate degradation
+dre00365	Furfural degradation
+dre00380	Tryptophan metabolism
+dre00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+dre00401	Novobiocin biosynthesis
+dre00402	Benzoxazinoid biosynthesis
+dre00403	Indole diterpene alkaloid biosynthesis
+dre00404	Staurosporine biosynthesis
+dre00405	Phenazine biosynthesis
+dre00410	beta-Alanine metabolism
+dre00430	Taurine and hypotaurine metabolism
+dre00440	Phosphonate and phosphinate metabolism
+dre00450	Selenocompound metabolism
+dre00460	Cyanoamino acid metabolism
+dre00470	D-Amino acid metabolism
+dre00480	Glutathione metabolism
+dre00500	Starch and sucrose metabolism
+dre00510	N-Glycan biosynthesis
+dre00511	Other glycan degradation
+dre00512	Mucin type O-glycan biosynthesis
+dre00513	Various types of N-glycan biosynthesis
+dre00514	Other types of O-glycan biosynthesis
+dre00515	Mannose type O-glycan biosynthesis
+dre00520	Amino sugar and nucleotide sugar metabolism
+dre00521	Streptomycin biosynthesis
+dre00522	Biosynthesis of 12-, 14- and 16-membered macrolides
+dre00523	Polyketide sugar unit biosynthesis
+dre00524	Neomycin, kanamycin and gentamicin biosynthesis
+dre00525	Acarbose and validamycin biosynthesis
+dre00531	Glycosaminoglycan degradation
+dre00532	Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate
+dre00533	Glycosaminoglycan biosynthesis - keratan sulfate
+dre00534	Glycosaminoglycan biosynthesis - heparan sulfate / heparin
+dre00540	Lipopolysaccharide biosynthesis
+dre00541	O-Antigen nucleotide sugar biosynthesis
+dre00542	O-Antigen repeat unit biosynthesis
+dre00550	Peptidoglycan biosynthesis
+dre00561	Glycerolipid metabolism
+dre00562	Inositol phosphate metabolism
+dre00563	Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+dre00564	Glycerophospholipid metabolism
+dre00565	Ether lipid metabolism
+dre00571	Lipoarabinomannan (LAM) biosynthesis
+dre00572	Arabinogalactan biosynthesis - Mycobacterium
+dre00590	Arachidonic acid metabolism
+dre00591	Linoleic acid metabolism
+dre00592	alpha-Linolenic acid metabolism
+dre00600	Sphingolipid metabolism
+dre00601	Glycosphingolipid biosynthesis - lacto and neolacto series
+dre00603	Glycosphingolipid biosynthesis - globo and isoglobo series
+dre00604	Glycosphingolipid biosynthesis - ganglio series
+dre00620	Pyruvate metabolism
+dre00621	Dioxin degradation
+dre00622	Xylene degradation
+dre00623	Toluene degradation
+dre00624	Polycyclic aromatic hydrocarbon degradation
+dre00625	Chloroalkane and chloroalkene degradation
+dre00626	Naphthalene degradation
+dre00627	Aminobenzoate degradation
+dre00630	Glyoxylate and dicarboxylate metabolism
+dre00633	Nitrotoluene degradation
+dre00640	Propanoate metabolism
+dre00642	Ethylbenzene degradation
+dre00643	Styrene degradation
+dre00650	Butanoate metabolism
+dre00660	C5-Branched dibasic acid metabolism
+dre00670	One carbon pool by folate
+dre00680	Methane metabolism
+dre00710	Carbon fixation in photosynthetic organisms
+dre00720	Carbon fixation pathways in prokaryotes
+dre00730	Thiamine metabolism
+dre00740	Riboflavin metabolism
+dre00750	Vitamin B6 metabolism
+dre00760	Nicotinate and nicotinamide metabolism
+dre00770	Pantothenate and CoA biosynthesis
+dre00780	Biotin metabolism
+dre00785	Lipoic acid metabolism
+dre00790	Folate biosynthesis
+dre00791	Atrazine degradation
+dre00830	Retinol metabolism
+dre00860	Porphyrin and chlorophyll metabolism
+dre00900	Terpenoid backbone biosynthesis
+dre00901	Indole alkaloid biosynthesis
+dre00902	Monoterpenoid biosynthesis
+dre00903	Limonene and pinene degradation
+dre00904	Diterpenoid biosynthesis
+dre00905	Brassinosteroid biosynthesis
+dre00906	Carotenoid biosynthesis
+dre00908	Zeatin biosynthesis
+dre00909	Sesquiterpenoid and triterpenoid biosynthesis
+dre00910	Nitrogen metabolism
+dre00920	Sulfur metabolism
+dre00930	Caprolactam degradation
+dre00940	Phenylpropanoid biosynthesis
+dre00941	Flavonoid biosynthesis
+dre00942	Anthocyanin biosynthesis
+dre00943	Isoflavonoid biosynthesis
+dre00944	Flavone and flavonol biosynthesis
+dre00945	Stilbenoid, diarylheptanoid and gingerol biosynthesis
+dre00950	Isoquinoline alkaloid biosynthesis
+dre00960	Tropane, piperidine and pyridine alkaloid biosynthesis
+dre00965	Betalain biosynthesis
+dre00966	Glucosinolate biosynthesis
+dre00970	Aminoacyl-tRNA biosynthesis
+dre00980	Metabolism of xenobiotics by cytochrome P450
+dre00981	Insect hormone biosynthesis
+dre00982	Drug metabolism - cytochrome P450
+dre00983	Drug metabolism - other enzymes
+dre00984	Steroid degradation
+dre00997	Biosynthesis of various secondary metabolites - part 3
+dre00998	Biosynthesis of various secondary metabolites - part 2
+dre00999	Biosynthesis of various secondary metabolites - part 1
+dre01010	Overview of biosynthetic pathways
+dre01040	Biosynthesis of unsaturated fatty acids
+dre01051	Biosynthesis of ansamycins
+dre01052	Type I polyketide structures
+dre01053	Biosynthesis of siderophore group nonribosomal peptides
+dre01054	Nonribosomal peptide structures
+dre01055	Biosynthesis of vancomycin group antibiotics
+dre01056	Biosynthesis of type II polyketide backbone
+dre01057	Biosynthesis of type II polyketide products
+dre01058	Acridone alkaloid biosynthesis
+dre01059	Biosynthesis of enediyne antibiotics
+dre01060	Biosynthesis of plant secondary metabolites
+dre01061	Biosynthesis of phenylpropanoids
+dre01062	Biosynthesis of terpenoids and steroids
+dre01063	Biosynthesis of alkaloids derived from shikimate pathway
+dre01064	Biosynthesis of alkaloids derived from ornithine, lysine and nicotinic acid
+dre01065	Biosynthesis of alkaloids derived from histidine and purine
+dre01066	Biosynthesis of alkaloids derived from terpenoid and polyketide
+dre01070	Biosynthesis of plant hormones
+dre01100	Metabolic pathways
+dre01110	Biosynthesis of secondary metabolites
+dre01120	Microbial metabolism in diverse environments
+dre01200	Carbon metabolism
+dre01210	2-Oxocarboxylic acid metabolism
+dre01212	Fatty acid metabolism
+dre01220	Degradation of aromatic compounds
+dre01230	Biosynthesis of amino acids
+dre01240	Biosynthesis of cofactors
+dre01250	Biosynthesis of nucleotide sugars
+dre01501	beta-Lactam resistance
+dre01502	Vancomycin resistance
+dre01503	Cationic antimicrobial peptide (CAMP) resistance
+dre01521	EGFR tyrosine kinase inhibitor resistance
+dre01522	Endocrine resistance
+dre01523	Antifolate resistance
+dre01524	Platinum drug resistance
+dre02010	ABC transporters
+dre02020	Two-component system
+dre02024	Quorum sensing
+dre02025	Biofilm formation - Pseudomonas aeruginosa
+dre02026	Biofilm formation - Escherichia coli
+dre02030	Bacterial chemotaxis
+dre02040	Flagellar assembly
+dre02060	Phosphotransferase system (PTS)
+dre03008	Ribosome biogenesis in eukaryotes
+dre03010	Ribosome
+dre03013	Nucleocytoplasmic transport
+dre03015	mRNA surveillance pathway
+dre03018	RNA degradation
+dre03020	RNA polymerase
+dre03022	Basal transcription factors
+dre03030	DNA replication
+dre03040	Spliceosome
+dre03050	Proteasome
+dre03060	Protein export
+dre03070	Bacterial secretion system
+dre03230	Viral genome structure
+dre03240	Viral replication
+dre03320	PPAR signaling pathway
+dre03410	Base excision repair
+dre03420	Nucleotide excision repair
+dre03430	Mismatch repair
+dre03440	Homologous recombination
+dre03450	Non-homologous end-joining
+dre03460	Fanconi anemia pathway
+dre04010	MAPK signaling pathway
+dre04011	MAPK signaling pathway - yeast
+dre04012	ErbB signaling pathway
+dre04013	MAPK signaling pathway - fly
+dre04014	Ras signaling pathway
+dre04015	Rap1 signaling pathway
+dre04016	MAPK signaling pathway - plant
+dre04020	Calcium signaling pathway
+dre04022	cGMP-PKG signaling pathway
+dre04024	cAMP signaling pathway
+dre04060	Cytokine-cytokine receptor interaction
+dre04061	Viral protein interaction with cytokine and cytokine receptor
+dre04062	Chemokine signaling pathway
+dre04064	NF-kappa B signaling pathway
+dre04066	HIF-1 signaling pathway
+dre04068	FoxO signaling pathway
+dre04070	Phosphatidylinositol signaling system
+dre04071	Sphingolipid signaling pathway
+dre04072	Phospholipase D signaling pathway
+dre04075	Plant hormone signal transduction
+dre04080	Neuroactive ligand-receptor interaction
+dre04110	Cell cycle
+dre04111	Cell cycle - yeast
+dre04112	Cell cycle - Caulobacter
+dre04113	Meiosis - yeast
+dre04114	Oocyte meiosis
+dre04115	p53 signaling pathway
+dre04120	Ubiquitin mediated proteolysis
+dre04122	Sulfur relay system
+dre04130	SNARE interactions in vesicular transport
+dre04136	Autophagy - other
+dre04137	Mitophagy - animal
+dre04138	Autophagy - yeast
+dre04139	Mitophagy - yeast
+dre04140	Autophagy - animal
+dre04141	Protein processing in endoplasmic reticulum
+dre04142	Lysosome
+dre04144	Endocytosis
+dre04145	Phagosome
+dre04146	Peroxisome
+dre04150	mTOR signaling pathway
+dre04151	PI3K-Akt signaling pathway
+dre04152	AMPK signaling pathway
+dre04210	Apoptosis
+dre04211	Longevity regulating pathway
+dre04212	Longevity regulating pathway - worm
+dre04213	Longevity regulating pathway - multiple species
+dre04214	Apoptosis - fly
+dre04215	Apoptosis - multiple species
+dre04216	Ferroptosis
+dre04217	Necroptosis
+dre04218	Cellular senescence
+dre04260	Cardiac muscle contraction
+dre04261	Adrenergic signaling in cardiomyocytes
+dre04270	Vascular smooth muscle contraction
+dre04310	Wnt signaling pathway
+dre04320	Dorso-ventral axis formation
+dre04330	Notch signaling pathway
+dre04340	Hedgehog signaling pathway
+dre04341	Hedgehog signaling pathway - fly
+dre04350	TGF-beta signaling pathway
+dre04360	Axon guidance
+dre04361	Axon regeneration
+dre04370	VEGF signaling pathway
+dre04371	Apelin signaling pathway
+dre04380	Osteoclast differentiation
+dre04390	Hippo signaling pathway
+dre04391	Hippo signaling pathway - fly
+dre04392	Hippo signaling pathway - multiple species
+dre04510	Focal adhesion
+dre04512	ECM-receptor interaction
+dre04514	Cell adhesion molecules
+dre04520	Adherens junction
+dre04530	Tight junction
+dre04540	Gap junction
+dre04550	Signaling pathways regulating pluripotency of stem cells
+dre04610	Complement and coagulation cascades
+dre04611	Platelet activation
+dre04612	Antigen processing and presentation
+dre04613	Neutrophil extracellular trap formation
+dre04614	Renin-angiotensin system
+dre04620	Toll-like receptor signaling pathway
+dre04621	NOD-like receptor signaling pathway
+dre04622	RIG-I-like receptor signaling pathway
+dre04623	Cytosolic DNA-sensing pathway
+dre04624	Toll and Imd signaling pathway
+dre04625	C-type lectin receptor signaling pathway
+dre04626	Plant-pathogen interaction
+dre04630	JAK-STAT signaling pathway
+dre04640	Hematopoietic cell lineage
+dre04650	Natural killer cell mediated cytotoxicity
+dre04657	IL-17 signaling pathway
+dre04658	Th1 and Th2 cell differentiation
+dre04659	Th17 cell differentiation
+dre04660	T cell receptor signaling pathway
+dre04662	B cell receptor signaling pathway
+dre04664	Fc epsilon RI signaling pathway
+dre04666	Fc gamma R-mediated phagocytosis
+dre04668	TNF signaling pathway
+dre04670	Leukocyte transendothelial migration
+dre04672	Intestinal immune network for IgA production
+dre04710	Circadian rhythm
+dre04711	Circadian rhythm - fly
+dre04712	Circadian rhythm - plant
+dre04713	Circadian entrainment
+dre04714	Thermogenesis
+dre04720	Long-term potentiation
+dre04721	Synaptic vesicle cycle
+dre04722	Neurotrophin signaling pathway
+dre04723	Retrograde endocannabinoid signaling
+dre04724	Glutamatergic synapse
+dre04725	Cholinergic synapse
+dre04726	Serotonergic synapse
+dre04727	GABAergic synapse
+dre04728	Dopaminergic synapse
+dre04730	Long-term depression
+dre04740	Olfactory transduction
+dre04742	Taste transduction
+dre04744	Phototransduction
+dre04745	Phototransduction - fly
+dre04750	Inflammatory mediator regulation of TRP channels
+dre04810	Regulation of actin cytoskeleton
+dre04910	Insulin signaling pathway
+dre04911	Insulin secretion
+dre04912	GnRH signaling pathway
+dre04913	Ovarian steroidogenesis
+dre04914	Progesterone-mediated oocyte maturation
+dre04915	Estrogen signaling pathway
+dre04916	Melanogenesis
+dre04917	Prolactin signaling pathway
+dre04918	Thyroid hormone synthesis
+dre04919	Thyroid hormone signaling pathway
+dre04920	Adipocytokine signaling pathway
+dre04921	Oxytocin signaling pathway
+dre04922	Glucagon signaling pathway
+dre04923	Regulation of lipolysis in adipocytes
+dre04924	Renin secretion
+dre04925	Aldosterone synthesis and secretion
+dre04926	Relaxin signaling pathway
+dre04927	Cortisol synthesis and secretion
+dre04928	Parathyroid hormone synthesis, secretion and action
+dre04929	GnRH secretion
+dre04930	Type II diabetes mellitus
+dre04931	Insulin resistance
+dre04932	Non-alcoholic fatty liver disease
+dre04933	AGE-RAGE signaling pathway in diabetic complications
+dre04934	Cushing syndrome
+dre04935	Growth hormone synthesis, secretion and action
+dre04936	Alcoholic liver disease
+dre04940	Type I diabetes mellitus
+dre04950	Maturity onset diabetes of the young
+dre04960	Aldosterone-regulated sodium reabsorption
+dre04961	Endocrine and other factor-regulated calcium reabsorption
+dre04962	Vasopressin-regulated water reabsorption
+dre04964	Proximal tubule bicarbonate reclamation
+dre04966	Collecting duct acid secretion
+dre04970	Salivary secretion
+dre04971	Gastric acid secretion
+dre04972	Pancreatic secretion
+dre04973	Carbohydrate digestion and absorption
+dre04974	Protein digestion and absorption
+dre04975	Fat digestion and absorption
+dre04976	Bile secretion
+dre04977	Vitamin digestion and absorption
+dre04978	Mineral absorption
+dre04979	Cholesterol metabolism
+dre05010	Alzheimer disease
+dre05012	Parkinson disease
+dre05014	Amyotrophic lateral sclerosis
+dre05016	Huntington disease
+dre05017	Spinocerebellar ataxia
+dre05020	Prion disease
+dre05022	Pathways of neurodegeneration - multiple diseases
+dre05030	Cocaine addiction
+dre05031	Amphetamine addiction
+dre05032	Morphine addiction
+dre05033	Nicotine addiction
+dre05034	Alcoholism
+dre05100	Bacterial invasion of epithelial cells
+dre05110	Vibrio cholerae infection
+dre05111	Biofilm formation - Vibrio cholerae
+dre05120	Epithelial cell signaling in Helicobacter pylori infection
+dre05130	Pathogenic Escherichia coli infection
+dre05131	Shigellosis
+dre05132	Salmonella infection
+dre05133	Pertussis
+dre05134	Legionellosis
+dre05135	Yersinia infection
+dre05140	Leishmaniasis
+dre05142	Chagas disease
+dre05143	African trypanosomiasis
+dre05144	Malaria
+dre05145	Toxoplasmosis
+dre05146	Amoebiasis
+dre05150	Staphylococcus aureus infection
+dre05152	Tuberculosis
+dre05160	Hepatitis C
+dre05161	Hepatitis B
+dre05162	Measles
+dre05163	Human cytomegalovirus infection
+dre05164	Influenza A
+dre05165	Human papillomavirus infection
+dre05166	Human T-cell leukemia virus 1 infection
+dre05167	Kaposi sarcoma-associated herpesvirus infection
+dre05168	Herpes simplex virus 1 infection
+dre05169	Epstein-Barr virus infection
+dre05170	Human immunodeficiency virus 1 infection
+dre05171	Coronavirus disease - COVID-19
+dre05200	Pathways in cancer
+dre05202	Transcriptional misregulation in cancer
+dre05203	Viral carcinogenesis
+dre05204	Chemical carcinogenesis - DNA adducts
+dre05205	Proteoglycans in cancer
+dre05206	MicroRNAs in cancer
+dre05207	Chemical carcinogenesis - receptor activation
+dre05208	Chemical carcinogenesis - reactive oxygen species
+dre05210	Colorectal cancer
+dre05211	Renal cell carcinoma
+dre05212	Pancreatic cancer
+dre05213	Endometrial cancer
+dre05214	Glioma
+dre05215	Prostate cancer
+dre05216	Thyroid cancer
+dre05217	Basal cell carcinoma
+dre05218	Melanoma
+dre05219	Bladder cancer
+dre05220	Chronic myeloid leukemia
+dre05221	Acute myeloid leukemia
+dre05222	Small cell lung cancer
+dre05223	Non-small cell lung cancer
+dre05224	Breast cancer
+dre05225	Hepatocellular carcinoma
+dre05226	Gastric cancer
+dre05230	Central carbon metabolism in cancer
+dre05231	Choline metabolism in cancer
+dre05235	PD-L1 expression and PD-1 checkpoint pathway in cancer
+dre05310	Asthma
+dre05320	Autoimmune thyroid disease
+dre05321	Inflammatory bowel disease
+dre05322	Systemic lupus erythematosus
+dre05323	Rheumatoid arthritis
+dre05330	Allograft rejection
+dre05332	Graft-versus-host disease
+dre05340	Primary immunodeficiency
+dre05410	Hypertrophic cardiomyopathy
+dre05412	Arrhythmogenic right ventricular cardiomyopathy
+dre05414	Dilated cardiomyopathy
+dre05415	Diabetic cardiomyopathy
+dre05416	Viral myocarditis
+dre05417	Lipid and atherosclerosis
+dre05418	Fluid shear stress and atherosclerosis
+dre07011	Penicillins
+dre07012	Cephalosporins - parenteral agents
+dre07013	Cephalosporins - oral agents
+dre07014	Quinolones
+dre07015	Local analgesics
+dre07016	Sulfonamide derivatives - sulfa drugs
+dre07017	Sulfonamide derivatives - diuretics
+dre07018	Sulfonamide derivatives - hypoglycemic agents
+dre07019	Tetracyclines
+dre07020	Macrolides and ketolides
+dre07021	Aminoglycosides
+dre07023	Rifamycins
+dre07024	HMG-CoA reductase inhibitors
+dre07025	Quinolines
+dre07026	Antifungal agents
+dre07027	Antidepressants
+dre07028	Antipsychotics
+dre07029	Antipsychotics - phenothiazines
+dre07030	Anxiolytics
+dre07031	Antipsychotics - butyrophenones
+dre07032	Hypnotics
+dre07033	Anticonvulsants
+dre07034	Eicosanoids
+dre07035	Prostaglandins
+dre07036	Calcium channel blocking drugs
+dre07037	Antiarrhythmic drugs
+dre07038	Antiulcer drugs
+dre07039	Opioid analgesics
+dre07040	Antineoplastics - alkylating agents
+dre07041	Antineoplastics - antimetabolic agents
+dre07042	Antineoplastics - agents from natural products
+dre07043	Antineoplastics - hormones
+dre07044	Antiviral agents
+dre07045	Antineoplastics - protein kinase inhibitors
+dre07046	Immunosuppressive agents
+dre07047	Osteoporosis drugs
+dre07048	Antimigraines
+dre07049	Antithrombosis agents
+dre07050	Antirheumatics - DMARDs and biological agents
+dre07051	Antidiabetics
+dre07052	Antidyslipidemic agents
+dre07053	Anti-HIV agents
+dre07054	Antiglaucoma agents
+dre07055	Sulfonamide derivatives - overview
+dre07056	Agents for Alzheimer-type dementia
+dre07057	Antiparkinsonian agents
+dre07110	Benzoic acid family
+dre07112	1,2-Diphenyl substitution family
+dre07114	Naphthalene family
+dre07117	Benzodiazepine family
+dre07211	Serotonin receptor agonists/antagonists
+dre07212	Histamine H1 receptor antagonists
+dre07213	Dopamine receptor agonists/antagonists
+dre07214	beta-Adrenergic receptor agonists/antagonists
+dre07215	alpha-Adrenergic receptor agonists/antagonists
+dre07216	Catecholamine transferase inhibitors
+dre07217	Renin-angiotensin system inhibitors
+dre07218	HIV protease inhibitors
+dre07219	Cyclooxygenase inhibitors
+dre07220	Cholinergic and anticholinergic drugs
+dre07221	Nicotinic cholinergic receptor antagonists
+dre07222	Peroxisome proliferator-activated receptor (PPAR) agonists
+dre07223	Retinoic acid receptor (RAR) and retinoid X receptor (RXR) agonists/antagonists
+dre07224	Opioid receptor agonists/antagonists
+dre07225	Glucocorticoid and mineralocorticoid receptor agonists/antagonists
+dre07226	Progesterone, androgen and estrogen receptor agonists/antagonists
+dre07227	Histamine H2/H3 receptor agonists/antagonists
+dre07228	Eicosanoid receptor agonists/antagonists
+dre07229	Angiotensin receptor and endothelin receptor antagonists
+dre07230	GABA-A receptor agonists/antagonists
+dre07231	Sodium channel blocking drugs
+dre07232	Potassium channel blocking and opening drugs
+dre07233	Ion transporter inhibitors
+dre07234	Neurotransmitter transporter inhibitors
+dre07235	N-Methyl-D-aspartic acid (NMDA) receptor antagonists

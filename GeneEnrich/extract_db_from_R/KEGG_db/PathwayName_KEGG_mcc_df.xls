@@ -1,0 +1,549 @@
+pathid	pathname
+mcc00010	Glycolysis / Gluconeogenesis
+mcc00020	Citrate cycle (TCA cycle)
+mcc00030	Pentose phosphate pathway
+mcc00040	Pentose and glucuronate interconversions
+mcc00051	Fructose and mannose metabolism
+mcc00052	Galactose metabolism
+mcc00053	Ascorbate and aldarate metabolism
+mcc00061	Fatty acid biosynthesis
+mcc00062	Fatty acid elongation
+mcc00071	Fatty acid degradation
+mcc00073	Cutin, suberine and wax biosynthesis
+mcc00100	Steroid biosynthesis
+mcc00120	Primary bile acid biosynthesis
+mcc00121	Secondary bile acid biosynthesis
+mcc00130	Ubiquinone and other terpenoid-quinone biosynthesis
+mcc00140	Steroid hormone biosynthesis
+mcc00190	Oxidative phosphorylation
+mcc00195	Photosynthesis
+mcc00196	Photosynthesis - antenna proteins
+mcc00220	Arginine biosynthesis
+mcc00230	Purine metabolism
+mcc00232	Caffeine metabolism
+mcc00240	Pyrimidine metabolism
+mcc00250	Alanine, aspartate and glutamate metabolism
+mcc00253	Tetracycline biosynthesis
+mcc00254	Aflatoxin biosynthesis
+mcc00260	Glycine, serine and threonine metabolism
+mcc00261	Monobactam biosynthesis
+mcc00270	Cysteine and methionine metabolism
+mcc00280	Valine, leucine and isoleucine degradation
+mcc00281	Geraniol degradation
+mcc00290	Valine, leucine and isoleucine biosynthesis
+mcc00300	Lysine biosynthesis
+mcc00310	Lysine degradation
+mcc00311	Penicillin and cephalosporin biosynthesis
+mcc00330	Arginine and proline metabolism
+mcc00331	Clavulanic acid biosynthesis
+mcc00332	Carbapenem biosynthesis
+mcc00333	Prodigiosin biosynthesis
+mcc00340	Histidine metabolism
+mcc00350	Tyrosine metabolism
+mcc00360	Phenylalanine metabolism
+mcc00361	Chlorocyclohexane and chlorobenzene degradation
+mcc00362	Benzoate degradation
+mcc00363	Bisphenol degradation
+mcc00364	Fluorobenzoate degradation
+mcc00365	Furfural degradation
+mcc00380	Tryptophan metabolism
+mcc00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+mcc00401	Novobiocin biosynthesis
+mcc00402	Benzoxazinoid biosynthesis
+mcc00403	Indole diterpene alkaloid biosynthesis
+mcc00404	Staurosporine biosynthesis
+mcc00405	Phenazine biosynthesis
+mcc00410	beta-Alanine metabolism
+mcc00430	Taurine and hypotaurine metabolism
+mcc00440	Phosphonate and phosphinate metabolism
+mcc00450	Selenocompound metabolism
+mcc00460	Cyanoamino acid metabolism
+mcc00470	D-Amino acid metabolism
+mcc00480	Glutathione metabolism
+mcc00500	Starch and sucrose metabolism
+mcc00510	N-Glycan biosynthesis
+mcc00511	Other glycan degradation
+mcc00512	Mucin type O-glycan biosynthesis
+mcc00513	Various types of N-glycan biosynthesis
+mcc00514	Other types of O-glycan biosynthesis
+mcc00515	Mannose type O-glycan biosynthesis
+mcc00520	Amino sugar and nucleotide sugar metabolism
+mcc00521	Streptomycin biosynthesis
+mcc00522	Biosynthesis of 12-, 14- and 16-membered macrolides
+mcc00523	Polyketide sugar unit biosynthesis
+mcc00524	Neomycin, kanamycin and gentamicin biosynthesis
+mcc00525	Acarbose and validamycin biosynthesis
+mcc00531	Glycosaminoglycan degradation
+mcc00532	Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate
+mcc00533	Glycosaminoglycan biosynthesis - keratan sulfate
+mcc00534	Glycosaminoglycan biosynthesis - heparan sulfate / heparin
+mcc00540	Lipopolysaccharide biosynthesis
+mcc00541	O-Antigen nucleotide sugar biosynthesis
+mcc00542	O-Antigen repeat unit biosynthesis
+mcc00550	Peptidoglycan biosynthesis
+mcc00561	Glycerolipid metabolism
+mcc00562	Inositol phosphate metabolism
+mcc00563	Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+mcc00564	Glycerophospholipid metabolism
+mcc00565	Ether lipid metabolism
+mcc00571	Lipoarabinomannan (LAM) biosynthesis
+mcc00572	Arabinogalactan biosynthesis - Mycobacterium
+mcc00590	Arachidonic acid metabolism
+mcc00591	Linoleic acid metabolism
+mcc00592	alpha-Linolenic acid metabolism
+mcc00600	Sphingolipid metabolism
+mcc00601	Glycosphingolipid biosynthesis - lacto and neolacto series
+mcc00603	Glycosphingolipid biosynthesis - globo and isoglobo series
+mcc00604	Glycosphingolipid biosynthesis - ganglio series
+mcc00620	Pyruvate metabolism
+mcc00621	Dioxin degradation
+mcc00622	Xylene degradation
+mcc00623	Toluene degradation
+mcc00624	Polycyclic aromatic hydrocarbon degradation
+mcc00625	Chloroalkane and chloroalkene degradation
+mcc00626	Naphthalene degradation
+mcc00627	Aminobenzoate degradation
+mcc00630	Glyoxylate and dicarboxylate metabolism
+mcc00633	Nitrotoluene degradation
+mcc00640	Propanoate metabolism
+mcc00642	Ethylbenzene degradation
+mcc00643	Styrene degradation
+mcc00650	Butanoate metabolism
+mcc00660	C5-Branched dibasic acid metabolism
+mcc00670	One carbon pool by folate
+mcc00680	Methane metabolism
+mcc00710	Carbon fixation in photosynthetic organisms
+mcc00720	Carbon fixation pathways in prokaryotes
+mcc00730	Thiamine metabolism
+mcc00740	Riboflavin metabolism
+mcc00750	Vitamin B6 metabolism
+mcc00760	Nicotinate and nicotinamide metabolism
+mcc00770	Pantothenate and CoA biosynthesis
+mcc00780	Biotin metabolism
+mcc00785	Lipoic acid metabolism
+mcc00790	Folate biosynthesis
+mcc00791	Atrazine degradation
+mcc00830	Retinol metabolism
+mcc00860	Porphyrin and chlorophyll metabolism
+mcc00900	Terpenoid backbone biosynthesis
+mcc00901	Indole alkaloid biosynthesis
+mcc00902	Monoterpenoid biosynthesis
+mcc00903	Limonene and pinene degradation
+mcc00904	Diterpenoid biosynthesis
+mcc00905	Brassinosteroid biosynthesis
+mcc00906	Carotenoid biosynthesis
+mcc00908	Zeatin biosynthesis
+mcc00909	Sesquiterpenoid and triterpenoid biosynthesis
+mcc00910	Nitrogen metabolism
+mcc00920	Sulfur metabolism
+mcc00930	Caprolactam degradation
+mcc00940	Phenylpropanoid biosynthesis
+mcc00941	Flavonoid biosynthesis
+mcc00942	Anthocyanin biosynthesis
+mcc00943	Isoflavonoid biosynthesis
+mcc00944	Flavone and flavonol biosynthesis
+mcc00945	Stilbenoid, diarylheptanoid and gingerol biosynthesis
+mcc00950	Isoquinoline alkaloid biosynthesis
+mcc00960	Tropane, piperidine and pyridine alkaloid biosynthesis
+mcc00965	Betalain biosynthesis
+mcc00966	Glucosinolate biosynthesis
+mcc00970	Aminoacyl-tRNA biosynthesis
+mcc00980	Metabolism of xenobiotics by cytochrome P450
+mcc00981	Insect hormone biosynthesis
+mcc00982	Drug metabolism - cytochrome P450
+mcc00983	Drug metabolism - other enzymes
+mcc00984	Steroid degradation
+mcc00997	Biosynthesis of various secondary metabolites - part 3
+mcc00998	Biosynthesis of various secondary metabolites - part 2
+mcc00999	Biosynthesis of various secondary metabolites - part 1
+mcc01010	Overview of biosynthetic pathways
+mcc01040	Biosynthesis of unsaturated fatty acids
+mcc01051	Biosynthesis of ansamycins
+mcc01052	Type I polyketide structures
+mcc01053	Biosynthesis of siderophore group nonribosomal peptides
+mcc01054	Nonribosomal peptide structures
+mcc01055	Biosynthesis of vancomycin group antibiotics
+mcc01056	Biosynthesis of type II polyketide backbone
+mcc01057	Biosynthesis of type II polyketide products
+mcc01058	Acridone alkaloid biosynthesis
+mcc01059	Biosynthesis of enediyne antibiotics
+mcc01060	Biosynthesis of plant secondary metabolites
+mcc01061	Biosynthesis of phenylpropanoids
+mcc01062	Biosynthesis of terpenoids and steroids
+mcc01063	Biosynthesis of alkaloids derived from shikimate pathway
+mcc01064	Biosynthesis of alkaloids derived from ornithine, lysine and nicotinic acid
+mcc01065	Biosynthesis of alkaloids derived from histidine and purine
+mcc01066	Biosynthesis of alkaloids derived from terpenoid and polyketide
+mcc01070	Biosynthesis of plant hormones
+mcc01100	Metabolic pathways
+mcc01110	Biosynthesis of secondary metabolites
+mcc01120	Microbial metabolism in diverse environments
+mcc01200	Carbon metabolism
+mcc01210	2-Oxocarboxylic acid metabolism
+mcc01212	Fatty acid metabolism
+mcc01220	Degradation of aromatic compounds
+mcc01230	Biosynthesis of amino acids
+mcc01240	Biosynthesis of cofactors
+mcc01250	Biosynthesis of nucleotide sugars
+mcc01501	beta-Lactam resistance
+mcc01502	Vancomycin resistance
+mcc01503	Cationic antimicrobial peptide (CAMP) resistance
+mcc01521	EGFR tyrosine kinase inhibitor resistance
+mcc01522	Endocrine resistance
+mcc01523	Antifolate resistance
+mcc01524	Platinum drug resistance
+mcc02010	ABC transporters
+mcc02020	Two-component system
+mcc02024	Quorum sensing
+mcc02025	Biofilm formation - Pseudomonas aeruginosa
+mcc02026	Biofilm formation - Escherichia coli
+mcc02030	Bacterial chemotaxis
+mcc02040	Flagellar assembly
+mcc02060	Phosphotransferase system (PTS)
+mcc03008	Ribosome biogenesis in eukaryotes
+mcc03010	Ribosome
+mcc03013	Nucleocytoplasmic transport
+mcc03015	mRNA surveillance pathway
+mcc03018	RNA degradation
+mcc03020	RNA polymerase
+mcc03022	Basal transcription factors
+mcc03030	DNA replication
+mcc03040	Spliceosome
+mcc03050	Proteasome
+mcc03060	Protein export
+mcc03070	Bacterial secretion system
+mcc03230	Viral genome structure
+mcc03240	Viral replication
+mcc03320	PPAR signaling pathway
+mcc03410	Base excision repair
+mcc03420	Nucleotide excision repair
+mcc03430	Mismatch repair
+mcc03440	Homologous recombination
+mcc03450	Non-homologous end-joining
+mcc03460	Fanconi anemia pathway
+mcc04010	MAPK signaling pathway
+mcc04011	MAPK signaling pathway - yeast
+mcc04012	ErbB signaling pathway
+mcc04013	MAPK signaling pathway - fly
+mcc04014	Ras signaling pathway
+mcc04015	Rap1 signaling pathway
+mcc04016	MAPK signaling pathway - plant
+mcc04020	Calcium signaling pathway
+mcc04022	cGMP-PKG signaling pathway
+mcc04024	cAMP signaling pathway
+mcc04060	Cytokine-cytokine receptor interaction
+mcc04061	Viral protein interaction with cytokine and cytokine receptor
+mcc04062	Chemokine signaling pathway
+mcc04064	NF-kappa B signaling pathway
+mcc04066	HIF-1 signaling pathway
+mcc04068	FoxO signaling pathway
+mcc04070	Phosphatidylinositol signaling system
+mcc04071	Sphingolipid signaling pathway
+mcc04072	Phospholipase D signaling pathway
+mcc04075	Plant hormone signal transduction
+mcc04080	Neuroactive ligand-receptor interaction
+mcc04110	Cell cycle
+mcc04111	Cell cycle - yeast
+mcc04112	Cell cycle - Caulobacter
+mcc04113	Meiosis - yeast
+mcc04114	Oocyte meiosis
+mcc04115	p53 signaling pathway
+mcc04120	Ubiquitin mediated proteolysis
+mcc04122	Sulfur relay system
+mcc04130	SNARE interactions in vesicular transport
+mcc04136	Autophagy - other
+mcc04137	Mitophagy - animal
+mcc04138	Autophagy - yeast
+mcc04139	Mitophagy - yeast
+mcc04140	Autophagy - animal
+mcc04141	Protein processing in endoplasmic reticulum
+mcc04142	Lysosome
+mcc04144	Endocytosis
+mcc04145	Phagosome
+mcc04146	Peroxisome
+mcc04150	mTOR signaling pathway
+mcc04151	PI3K-Akt signaling pathway
+mcc04152	AMPK signaling pathway
+mcc04210	Apoptosis
+mcc04211	Longevity regulating pathway
+mcc04212	Longevity regulating pathway - worm
+mcc04213	Longevity regulating pathway - multiple species
+mcc04214	Apoptosis - fly
+mcc04215	Apoptosis - multiple species
+mcc04216	Ferroptosis
+mcc04217	Necroptosis
+mcc04218	Cellular senescence
+mcc04260	Cardiac muscle contraction
+mcc04261	Adrenergic signaling in cardiomyocytes
+mcc04270	Vascular smooth muscle contraction
+mcc04310	Wnt signaling pathway
+mcc04320	Dorso-ventral axis formation
+mcc04330	Notch signaling pathway
+mcc04340	Hedgehog signaling pathway
+mcc04341	Hedgehog signaling pathway - fly
+mcc04350	TGF-beta signaling pathway
+mcc04360	Axon guidance
+mcc04361	Axon regeneration
+mcc04370	VEGF signaling pathway
+mcc04371	Apelin signaling pathway
+mcc04380	Osteoclast differentiation
+mcc04390	Hippo signaling pathway
+mcc04391	Hippo signaling pathway - fly
+mcc04392	Hippo signaling pathway - multiple species
+mcc04510	Focal adhesion
+mcc04512	ECM-receptor interaction
+mcc04514	Cell adhesion molecules
+mcc04520	Adherens junction
+mcc04530	Tight junction
+mcc04540	Gap junction
+mcc04550	Signaling pathways regulating pluripotency of stem cells
+mcc04610	Complement and coagulation cascades
+mcc04611	Platelet activation
+mcc04612	Antigen processing and presentation
+mcc04613	Neutrophil extracellular trap formation
+mcc04614	Renin-angiotensin system
+mcc04620	Toll-like receptor signaling pathway
+mcc04621	NOD-like receptor signaling pathway
+mcc04622	RIG-I-like receptor signaling pathway
+mcc04623	Cytosolic DNA-sensing pathway
+mcc04624	Toll and Imd signaling pathway
+mcc04625	C-type lectin receptor signaling pathway
+mcc04626	Plant-pathogen interaction
+mcc04630	JAK-STAT signaling pathway
+mcc04640	Hematopoietic cell lineage
+mcc04650	Natural killer cell mediated cytotoxicity
+mcc04657	IL-17 signaling pathway
+mcc04658	Th1 and Th2 cell differentiation
+mcc04659	Th17 cell differentiation
+mcc04660	T cell receptor signaling pathway
+mcc04662	B cell receptor signaling pathway
+mcc04664	Fc epsilon RI signaling pathway
+mcc04666	Fc gamma R-mediated phagocytosis
+mcc04668	TNF signaling pathway
+mcc04670	Leukocyte transendothelial migration
+mcc04672	Intestinal immune network for IgA production
+mcc04710	Circadian rhythm
+mcc04711	Circadian rhythm - fly
+mcc04712	Circadian rhythm - plant
+mcc04713	Circadian entrainment
+mcc04714	Thermogenesis
+mcc04720	Long-term potentiation
+mcc04721	Synaptic vesicle cycle
+mcc04722	Neurotrophin signaling pathway
+mcc04723	Retrograde endocannabinoid signaling
+mcc04724	Glutamatergic synapse
+mcc04725	Cholinergic synapse
+mcc04726	Serotonergic synapse
+mcc04727	GABAergic synapse
+mcc04728	Dopaminergic synapse
+mcc04730	Long-term depression
+mcc04740	Olfactory transduction
+mcc04742	Taste transduction
+mcc04744	Phototransduction
+mcc04745	Phototransduction - fly
+mcc04750	Inflammatory mediator regulation of TRP channels
+mcc04810	Regulation of actin cytoskeleton
+mcc04910	Insulin signaling pathway
+mcc04911	Insulin secretion
+mcc04912	GnRH signaling pathway
+mcc04913	Ovarian steroidogenesis
+mcc04914	Progesterone-mediated oocyte maturation
+mcc04915	Estrogen signaling pathway
+mcc04916	Melanogenesis
+mcc04917	Prolactin signaling pathway
+mcc04918	Thyroid hormone synthesis
+mcc04919	Thyroid hormone signaling pathway
+mcc04920	Adipocytokine signaling pathway
+mcc04921	Oxytocin signaling pathway
+mcc04922	Glucagon signaling pathway
+mcc04923	Regulation of lipolysis in adipocytes
+mcc04924	Renin secretion
+mcc04925	Aldosterone synthesis and secretion
+mcc04926	Relaxin signaling pathway
+mcc04927	Cortisol synthesis and secretion
+mcc04928	Parathyroid hormone synthesis, secretion and action
+mcc04929	GnRH secretion
+mcc04930	Type II diabetes mellitus
+mcc04931	Insulin resistance
+mcc04932	Non-alcoholic fatty liver disease
+mcc04933	AGE-RAGE signaling pathway in diabetic complications
+mcc04934	Cushing syndrome
+mcc04935	Growth hormone synthesis, secretion and action
+mcc04936	Alcoholic liver disease
+mcc04940	Type I diabetes mellitus
+mcc04950	Maturity onset diabetes of the young
+mcc04960	Aldosterone-regulated sodium reabsorption
+mcc04961	Endocrine and other factor-regulated calcium reabsorption
+mcc04962	Vasopressin-regulated water reabsorption
+mcc04964	Proximal tubule bicarbonate reclamation
+mcc04966	Collecting duct acid secretion
+mcc04970	Salivary secretion
+mcc04971	Gastric acid secretion
+mcc04972	Pancreatic secretion
+mcc04973	Carbohydrate digestion and absorption
+mcc04974	Protein digestion and absorption
+mcc04975	Fat digestion and absorption
+mcc04976	Bile secretion
+mcc04977	Vitamin digestion and absorption
+mcc04978	Mineral absorption
+mcc04979	Cholesterol metabolism
+mcc05010	Alzheimer disease
+mcc05012	Parkinson disease
+mcc05014	Amyotrophic lateral sclerosis
+mcc05016	Huntington disease
+mcc05017	Spinocerebellar ataxia
+mcc05020	Prion disease
+mcc05022	Pathways of neurodegeneration - multiple diseases
+mcc05030	Cocaine addiction
+mcc05031	Amphetamine addiction
+mcc05032	Morphine addiction
+mcc05033	Nicotine addiction
+mcc05034	Alcoholism
+mcc05100	Bacterial invasion of epithelial cells
+mcc05110	Vibrio cholerae infection
+mcc05111	Biofilm formation - Vibrio cholerae
+mcc05120	Epithelial cell signaling in Helicobacter pylori infection
+mcc05130	Pathogenic Escherichia coli infection
+mcc05131	Shigellosis
+mcc05132	Salmonella infection
+mcc05133	Pertussis
+mcc05134	Legionellosis
+mcc05135	Yersinia infection
+mcc05140	Leishmaniasis
+mcc05142	Chagas disease
+mcc05143	African trypanosomiasis
+mcc05144	Malaria
+mcc05145	Toxoplasmosis
+mcc05146	Amoebiasis
+mcc05150	Staphylococcus aureus infection
+mcc05152	Tuberculosis
+mcc05160	Hepatitis C
+mcc05161	Hepatitis B
+mcc05162	Measles
+mcc05163	Human cytomegalovirus infection
+mcc05164	Influenza A
+mcc05165	Human papillomavirus infection
+mcc05166	Human T-cell leukemia virus 1 infection
+mcc05167	Kaposi sarcoma-associated herpesvirus infection
+mcc05168	Herpes simplex virus 1 infection
+mcc05169	Epstein-Barr virus infection
+mcc05170	Human immunodeficiency virus 1 infection
+mcc05171	Coronavirus disease - COVID-19
+mcc05200	Pathways in cancer
+mcc05202	Transcriptional misregulation in cancer
+mcc05203	Viral carcinogenesis
+mcc05204	Chemical carcinogenesis - DNA adducts
+mcc05205	Proteoglycans in cancer
+mcc05206	MicroRNAs in cancer
+mcc05207	Chemical carcinogenesis - receptor activation
+mcc05208	Chemical carcinogenesis - reactive oxygen species
+mcc05210	Colorectal cancer
+mcc05211	Renal cell carcinoma
+mcc05212	Pancreatic cancer
+mcc05213	Endometrial cancer
+mcc05214	Glioma
+mcc05215	Prostate cancer
+mcc05216	Thyroid cancer
+mcc05217	Basal cell carcinoma
+mcc05218	Melanoma
+mcc05219	Bladder cancer
+mcc05220	Chronic myeloid leukemia
+mcc05221	Acute myeloid leukemia
+mcc05222	Small cell lung cancer
+mcc05223	Non-small cell lung cancer
+mcc05224	Breast cancer
+mcc05225	Hepatocellular carcinoma
+mcc05226	Gastric cancer
+mcc05230	Central carbon metabolism in cancer
+mcc05231	Choline metabolism in cancer
+mcc05235	PD-L1 expression and PD-1 checkpoint pathway in cancer
+mcc05310	Asthma
+mcc05320	Autoimmune thyroid disease
+mcc05321	Inflammatory bowel disease
+mcc05322	Systemic lupus erythematosus
+mcc05323	Rheumatoid arthritis
+mcc05330	Allograft rejection
+mcc05332	Graft-versus-host disease
+mcc05340	Primary immunodeficiency
+mcc05410	Hypertrophic cardiomyopathy
+mcc05412	Arrhythmogenic right ventricular cardiomyopathy
+mcc05414	Dilated cardiomyopathy
+mcc05415	Diabetic cardiomyopathy
+mcc05416	Viral myocarditis
+mcc05417	Lipid and atherosclerosis
+mcc05418	Fluid shear stress and atherosclerosis
+mcc07011	Penicillins
+mcc07012	Cephalosporins - parenteral agents
+mcc07013	Cephalosporins - oral agents
+mcc07014	Quinolones
+mcc07015	Local analgesics
+mcc07016	Sulfonamide derivatives - sulfa drugs
+mcc07017	Sulfonamide derivatives - diuretics
+mcc07018	Sulfonamide derivatives - hypoglycemic agents
+mcc07019	Tetracyclines
+mcc07020	Macrolides and ketolides
+mcc07021	Aminoglycosides
+mcc07023	Rifamycins
+mcc07024	HMG-CoA reductase inhibitors
+mcc07025	Quinolines
+mcc07026	Antifungal agents
+mcc07027	Antidepressants
+mcc07028	Antipsychotics
+mcc07029	Antipsychotics - phenothiazines
+mcc07030	Anxiolytics
+mcc07031	Antipsychotics - butyrophenones
+mcc07032	Hypnotics
+mcc07033	Anticonvulsants
+mcc07034	Eicosanoids
+mcc07035	Prostaglandins
+mcc07036	Calcium channel blocking drugs
+mcc07037	Antiarrhythmic drugs
+mcc07038	Antiulcer drugs
+mcc07039	Opioid analgesics
+mcc07040	Antineoplastics - alkylating agents
+mcc07041	Antineoplastics - antimetabolic agents
+mcc07042	Antineoplastics - agents from natural products
+mcc07043	Antineoplastics - hormones
+mcc07044	Antiviral agents
+mcc07045	Antineoplastics - protein kinase inhibitors
+mcc07046	Immunosuppressive agents
+mcc07047	Osteoporosis drugs
+mcc07048	Antimigraines
+mcc07049	Antithrombosis agents
+mcc07050	Antirheumatics - DMARDs and biological agents
+mcc07051	Antidiabetics
+mcc07052	Antidyslipidemic agents
+mcc07053	Anti-HIV agents
+mcc07054	Antiglaucoma agents
+mcc07055	Sulfonamide derivatives - overview
+mcc07056	Agents for Alzheimer-type dementia
+mcc07057	Antiparkinsonian agents
+mcc07110	Benzoic acid family
+mcc07112	1,2-Diphenyl substitution family
+mcc07114	Naphthalene family
+mcc07117	Benzodiazepine family
+mcc07211	Serotonin receptor agonists/antagonists
+mcc07212	Histamine H1 receptor antagonists
+mcc07213	Dopamine receptor agonists/antagonists
+mcc07214	beta-Adrenergic receptor agonists/antagonists
+mcc07215	alpha-Adrenergic receptor agonists/antagonists
+mcc07216	Catecholamine transferase inhibitors
+mcc07217	Renin-angiotensin system inhibitors
+mcc07218	HIV protease inhibitors
+mcc07219	Cyclooxygenase inhibitors
+mcc07220	Cholinergic and anticholinergic drugs
+mcc07221	Nicotinic cholinergic receptor antagonists
+mcc07222	Peroxisome proliferator-activated receptor (PPAR) agonists
+mcc07223	Retinoic acid receptor (RAR) and retinoid X receptor (RXR) agonists/antagonists
+mcc07224	Opioid receptor agonists/antagonists
+mcc07225	Glucocorticoid and mineralocorticoid receptor agonists/antagonists
+mcc07226	Progesterone, androgen and estrogen receptor agonists/antagonists
+mcc07227	Histamine H2/H3 receptor agonists/antagonists
+mcc07228	Eicosanoid receptor agonists/antagonists
+mcc07229	Angiotensin receptor and endothelin receptor antagonists
+mcc07230	GABA-A receptor agonists/antagonists
+mcc07231	Sodium channel blocking drugs
+mcc07232	Potassium channel blocking and opening drugs
+mcc07233	Ion transporter inhibitors
+mcc07234	Neurotransmitter transporter inhibitors
+mcc07235	N-Methyl-D-aspartic acid (NMDA) receptor antagonists
