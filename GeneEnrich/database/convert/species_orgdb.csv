@@ -2,10 +2,10 @@ species,orgdb,name,kegg,go
 hsa,org.Hs.eg.db,Homo sapiens,True,True
 mmu,org.Mm.eg.db,Mus musculus,True,True
 rno,org.Rn.eg.db,Rattus norvegicus,True,True
-gga,org.Gg.eg.db,Gallus gallus,False,True
-dme,org.Dm.eg.db,Drosophila melanogaster,False,True
+gga,org.Gg.eg.db,Gallus gallus,True,True
+dme,org.Dm.eg.db,Drosophila melanogaster,True,True
 dre,org.Dr.eg.db,Danio rerio,True,True
-bta,org.Bt.eg.db,Bos taurus,False,True
-cfa,org.Cf.eg.db,Canis familiaris,False,True
+bta,org.Bt.eg.db,Bos taurus,True,True
+cfa,org.Cf.eg.db,Canis familiaris,True,True
 ssc,org.Ss.eg.db,Sus scrofa,True,True
 mcc,org.Mmu.eg.db,Macaca mulatta,True,True
