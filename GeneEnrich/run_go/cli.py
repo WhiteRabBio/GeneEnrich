@@ -2,7 +2,7 @@
 
 from GeneEnrich.base_cli import AbstractCLI
 from GeneEnrich.run_go.enrich_go import enrichgo
-from GeneEnrich.preprocess import preprocess_deg
+from GeneEnrich.preprocess import preprocess_deg, preprocess_protein
 from GeneEnrich.enricher import organism_mapper
 import os
 
@@ -26,10 +26,10 @@ class CLI(AbstractCLI):
         except TypeError:
             raise ValueError("Problem with provided input and output paths.")
 
-        assert args.species in ['human', 'mouse'], \
-            "GeneEnrich only support human and mouse for analysis."
-
         args.updown = ['up', 'down'] if args.updown == 'both' else args.updown.split(',')
+
+        if args.type == 'uniprot':
+            args.updown = ['up']
 
         self.args = args
 
@@ -50,14 +50,22 @@ def run_go(args):
         command line.
     """
 
-    organism = organism_mapper(args.species)
+    organism = organism_mapper(args.species, database='GO')
 
     for ud in args.updown:
-        gene = preprocess_deg(deg_path=args.input_file,
-                              organism=organism,
-                              type=args.type,
-                              updown=ud,
-                              database='GO')
+        if args.type != 'uniprot':
+            gene = preprocess_deg(deg_path=args.input_file,
+                                  organism=organism,
+                                  type=args.type,
+                                  updown=ud,
+                                  database='GO')
+            name = 'SYMBOL'
+        else:
+            gene = preprocess_protein(protein_path=args.input_file,
+                                      organism=organism,
+                                      database='GO')
+            name = 'UNIPROT'
+
         res = enrichgo(
             gene,
             organism=organism,
@@ -69,7 +77,7 @@ def run_go(args):
         )
 
         res.to_csv(f'{args.output_dir}/{args.prefix}_GO_Enrichment_{ud.upper()}_Result.xls', sep='\t', index=None)
-        print(f'GO enrichment analysis for {ud}-regulated genes finished. ')
+        print(f'GO enrichment analysis for {ud}-regulated {name} finished. ')
 
 
 def main(args):

@@ -1,6 +1,7 @@
 import numpy as np
 import pandas as pd
 import scipy.stats
+import os
 
 
 def enricher_internal(
@@ -227,13 +228,22 @@ def get_geneSet_index(
     return geneSets.index
 
 
-def organism_mapper(species):
+def organism_mapper(species, database):
 
-    if species == "human":
-        organism = "hsa"
-    elif species == "mouse":
-        organism = "mmu"
+    mapper_file = f'{os.path.abspath(os.path.dirname(__file__))}/database/convert/species_orgdb.csv'
+    mapper = pd.read_csv(mapper_file)
+
+    mapper_dict = dict(zip(mapper['name'], mapper['species']))
+    if species in mapper_dict:
+        organism = mapper_dict[species]
     else:
-        raise ValueError(f'Only human (`organism`="hsa") or mouse (`organism` = "mmu") pathways are implemented')
+        print(f'Only support {", ".join(mapper["name"].unique())}')
+        raise ValueError('Not a valid species')
+
+    database_df = mapper[mapper[database.lower()]]
+    database_dict = dict(zip(database_df['species'], database_df['kegg']))
+    if organism not in database_dict:
+        print(f'Kegg only support {", ".join(database_df["species"].unique())}')
+        raise ValueError('Not a valid species for kegg analysis')
 
     return organism

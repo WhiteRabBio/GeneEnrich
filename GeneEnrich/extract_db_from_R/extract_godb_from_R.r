@@ -2,6 +2,13 @@ suppressMessages({
 library(clusterProfiler)
 library(org.Hs.eg.db)
 library(org.Mm.eg.db)
+library(org.Rn.eg.db)
+library(org.Gg.eg.db)
+library(org.Dm.eg.db)
+library(org.Dr.eg.db)
+library(org.Bt.eg.db)
+library(org.Cf.eg.db)
+library(org.Ss.eg.db)
 library(AnnotationDbi)
 library(argparser)
 })
@@ -13,13 +20,21 @@ argv <- add_argument(argv, "--ont", help = "BP MF or CC")
 argv <- add_argument(argv, "--output", help="output directory")
 argv <- parse_args(argv)
 
-if (argv$species == 'hsa'){
-   OrgDb <- "org.Hs.eg.db"
-}else if (argv$species == 'mmu') {
-   OrgDb <- "org.Mm.eg.db"
-} else {
-   stop("species is not supported...")
+
+replace_species_with_orgdb <- function(species_input, database='/Personal/huangwanxiang/GeneEnrich/GeneEnrich/database/convert/') {
+    file_path <- paste(database, '/species_orgdb.csv', sep='')
+    df <- read.table(file_path, sep=',', header=TRUE)
+
+    if (species_input %in% df$species) {
+        orgdb_value <- df$orgdb[df$species == species_input]
+    return(orgdb_value)
+
+    } else {
+        stop("The provided species is not supported.")
+    }
 }
+
+OrgDb <- replace_species_with_orgdb(argv$species)
    
 keyType <- "ENTREZID"
 

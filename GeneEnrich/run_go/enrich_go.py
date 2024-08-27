@@ -15,7 +15,7 @@ def enrichgo(
     qvalueCutoff=0.2,
 ):
 
-    res= pd.DataFrame()
+    res = pd.DataFrame()
     for onto in ['BP', 'MF', 'CC']:
         pathway_name_df, gene_pathway_mapping_df = get_data_from_GO_db(organism, onto)
         res_tmp = enricher_internal(gene,

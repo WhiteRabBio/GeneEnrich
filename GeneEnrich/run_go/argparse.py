@@ -30,12 +30,12 @@ def add_subparser_args(subparsers: argparse) -> argparse:
     subparser.add_argument("--species", nargs=None, type=str,
                            dest='species', default='human',
                            required=True,
-                           help="Support human or mouse.")
+                           help="Support human, mouse, etc.")
     subparser.add_argument("--type", nargs=None, type=str,
                            dest='type', default='scanpy_deg',
-                           choices=['scanpy_deg', 'seuratv3_deg', 'seuratv4_deg', 'list'],
+                           choices=['scanpy_deg', 'seuratv3_deg', 'seuratv4_deg', 'list', 'uniprot'],
                            required=True,
-                           help="DEG file or Gene list file")
+                           help="DEG file or Gene list file or Uniprot file")
     subparser.add_argument("--updown", nargs=None, type=str,
                            dest='updown', default='both',
                            choices=['up', 'down', 'both'],

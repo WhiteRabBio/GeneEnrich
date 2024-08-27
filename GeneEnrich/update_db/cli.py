@@ -4,6 +4,7 @@ from GeneEnrich.base_cli import AbstractCLI
 from GeneEnrich.run_kegg.kegg_utilities import update_kegg_db
 from GeneEnrich.run_go.go_utilities import update_go_db
 from GeneEnrich.enricher import organism_mapper
+import pandas as pd
 import os
 
 
@@ -19,9 +20,6 @@ class CLI(AbstractCLI):
 
     def validate_args(self, args):
         """Validate parsed arguments."""
-
-        assert args.species in ['human', 'mouse'], \
-            "GeneEnrich only support human and mouse for analysis."
 
         self.args = args
 
@@ -42,7 +40,7 @@ def update_db(args):
         command line.
     """
 
-    organism = organism_mapper(args.species)
+    organism = organism_mapper(args.species, args.database)
 
     if args.database == 'KEGG':
         update_kegg_db(organism=organism, force=False, version=args.version)

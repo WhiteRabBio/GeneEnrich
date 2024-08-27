@@ -21,7 +21,7 @@ def add_subparser_args(subparsers: argparse) -> argparse:
     subparser.add_argument("--species", nargs=None, type=str,
                            dest='species', default='human',
                            required=True,
-                           help="Support human or mouse.")
+                           help="Support human, mouse, etc.")
     subparser.add_argument("--version", nargs=None, type=str,
                            dest='version', default=None,
                            required=True,

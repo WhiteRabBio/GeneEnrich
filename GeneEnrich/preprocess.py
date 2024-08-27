@@ -6,11 +6,20 @@ from GeneEnrich.consts import SCANPY_TITLE, SEURATV3_TITLE
 from GeneEnrich.consts import DEG_P_VALUE_CUTOFF, DEG_MIN_PCT_CUTOFF, DEG_LOG_FC_CUTOFF
 
 
-def get_gene_info():
+def get_gene_info(organism='hsa'):
 	dir_, _ = os.path.split(__file__)
 	database_dir = os.path.abspath(os.path.join(dir_, 'database'))
-	symbol_tuple = load(f'{database_dir}/geneinfo.txt')
-	return {genesymbol: str(geneid) for geneid, genesymbol in symbol_tuple}
+	symbol_tuple = pd.read_csv(f'{database_dir}/convert/SYMBOL_{organism}.xls', sep='\t')
+	symbol_tuple['ENTREZID'] = symbol_tuple['ENTREZID'].astype('str')
+	return dict(zip(symbol_tuple['SYMBOL'], symbol_tuple['ENTREZID']))
+
+
+def get_protein_info(organism='hsa'):
+	dir_, _ = os.path.split(__file__)
+	database_dir = os.path.abspath(os.path.join(dir_, 'database'))
+	uniprot_tuple = pd.read_csv(f'{database_dir}/convert/UNIPROT_{organism}.xls', sep='\t')
+	uniprot_tuple['ENTREZID'] = uniprot_tuple['ENTREZID'].astype('str')
+	return dict(zip(uniprot_tuple['UNIPROT'], uniprot_tuple['ENTREZID']))
 
 
 def preprocess_deg(deg_path, type='deg', updown='up', organism='hsa', database='KEGG'):
@@ -52,18 +61,35 @@ def preprocess_deg(deg_path, type='deg', updown='up', organism='hsa', database='
 			drop=True
 		)
 		df['old_names'] = df['gene_id']
+	elif type == 'list':
+		df = pd.read_table(deg_path, header=None)
+		df['old_names'] = df[0]
 	else:
 		print('Not a valid-format input file. ')
 		quit()
 
 	gene2convert = get_gene_info()
-	gene_id_mapping = get_gene_id_mapping(organism)
 	id_lst = [gene2convert.get(g, np.nan) for g in df['old_names'].tolist()]
 	if database == 'KEGG':
+		gene_id_mapping = get_gene_id_mapping(organism)
 		id_lst = [gene_id_mapping[g].replace(f'{organism}:', '')
 				  if g in gene_id_mapping.keys() else np.nan for g in id_lst]
 	df['new_names'] = id_lst
 	print(f"{'%.2f%%' % ((1 -len(df.dropna()) / len(df)) * 100)} skipped, not found in database")
 	df = df.dropna()
 
+	return list(df['new_names'])
+
+
+def preprocess_protein(protein_path, organism='hsa', database='GO'):
+	df = pd.read_table(protein_path, sep=",")
+	uniprot2convert = get_protein_info(organism)
+	id_lst = [uniprot2convert.get(g, np.nan) for g in df['UniProt'].unique().tolist()]
+	if database == 'KEGG':
+		gene_id_mapping = get_gene_id_mapping(organism)
+		id_lst = [gene_id_mapping[g].replace(f'{organism}:', '')
+				  if g in gene_id_mapping.keys() else np.nan for g in id_lst]
+	df['new_names'] = id_lst
+	print(f"{'%.2f%%' % ((1 - len(df.dropna()) / len(df)) * 100)} skipped, not found in database")
+	df = df.dropna()
 	return list(df['new_names'])
