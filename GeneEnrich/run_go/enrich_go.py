@@ -33,7 +33,7 @@ def enrichgo(
             pass
 
     if len(res) != 0:
-        gene2convert = {geneid: genesymbol for genesymbol, geneid in get_gene_info().items()}
+        gene2convert = {geneid: genesymbol for genesymbol, geneid in get_gene_info(organism).items()}
         res['geneID'] = res['geneID'].apply(lambda x: '/'.join([gene2convert.get(i, i) for i in x.split('/')]))
         res = res.sort_values(by='pvalue')
     else:

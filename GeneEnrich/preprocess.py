@@ -68,7 +68,7 @@ def preprocess_deg(deg_path, type='deg', updown='up', organism='hsa', database='
 		print('Not a valid-format input file. ')
 		quit()
 
-	gene2convert = get_gene_info()
+	gene2convert = get_gene_info(organism)
 	id_lst = [gene2convert.get(g, np.nan) for g in df['old_names'].tolist()]
 	if database == 'KEGG':
 		gene_id_mapping = get_gene_id_mapping(organism)

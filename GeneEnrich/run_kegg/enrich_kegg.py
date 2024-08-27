@@ -27,7 +27,7 @@ def enrichkegg(
                             gene_pathway_mapping_df=gene_pathway_mapping_df)
 
     if res is not None and not res.empty:
-        gene2convert = {geneid: genesymbol for genesymbol, geneid in get_gene_info().items()}
+        gene2convert = {geneid: genesymbol for genesymbol, geneid in get_gene_info(organism).items()}
         res['geneID'] = res['geneID'].apply(lambda x: '/'.join([gene2convert.get(i, i) for i in x.split('/')]))
     else:
         sys.exit('No enrichment analysis result can be found, check input file')

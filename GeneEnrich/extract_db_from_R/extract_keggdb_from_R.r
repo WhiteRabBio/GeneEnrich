@@ -74,6 +74,7 @@ qExtID2TermID.df <- data.frame(geneid=rep(paste(argv$species, ':', names(qTermID
 PATHID2NAME <- get("PATHID2NAME", envir = KEGG_DATA)
 Pathname.df <- data.frame(pathid=paste(argv$species, names(PATHID2NAME), sep=""), 
                           pathname=PATHID2NAME)
+Pathname.df$pathid <- gsub("map", "", Pathname.df$pathid)
 
 write.table(qExtID2TermID.df, paste(argv$output, '/TermID_KEGG_', argv$species, '_df.xls', sep=''), sep='\t', quote=F, row.names=F)
 write.table(Pathname.df, paste(argv$output, '/PathwayName_KEGG_', argv$species, '_df.xls', sep=''), sep='\t', quote=F, row.names=F)

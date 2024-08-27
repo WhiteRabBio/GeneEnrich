@@ -13,6 +13,7 @@ def enricher_internal(
     minGSSize=10,
     maxGSSize=500,
     qvalueCutoff=0.2,
+    filter=True,
 ):
 
     gene = [str(g)
@@ -102,13 +103,14 @@ def enricher_internal(
     Over.index = qTermID
     Over = pd.concat([Over, geneID, adjusted_pvals, pathwayNameDf, count_df, qvalue_df], axis=1)
 
-    Over = Over[
-        (Over['pvalue'] < pvalueCutoff)
-        &
-        (Over['p.adjust'] < pvalueCutoff)
-        &
-        (Over['qvalue'] < qvalueCutoff)
-        ]
+    if filter:
+        Over = Over[
+            (Over['pvalue'] < pvalueCutoff)
+            &
+            (Over['p.adjust'] < pvalueCutoff)
+            &
+            (Over['qvalue'] < qvalueCutoff)
+            ]
     Over = Over[['ID', 'Description', 'GeneRatio', 'BgRatio', 'pvalue', 'p.adjust', 'qvalue', 'geneID', 'Count']]
     Over = Over.sort_values(by='pvalue')
 
