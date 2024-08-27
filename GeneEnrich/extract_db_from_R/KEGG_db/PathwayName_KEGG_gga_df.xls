@@ -1,0 +1,569 @@
+pathid	pathname
+gga01100	Metabolic pathways
+gga01110	Biosynthesis of secondary metabolites
+gga01120	Microbial metabolism in diverse environments
+gga01200	Carbon metabolism
+gga01210	2-Oxocarboxylic acid metabolism
+gga01212	Fatty acid metabolism
+gga01230	Biosynthesis of amino acids
+gga01232	Nucleotide metabolism
+gga01250	Biosynthesis of nucleotide sugars
+gga01240	Biosynthesis of cofactors
+gga01220	Degradation of aromatic compounds
+gga00010	Glycolysis / Gluconeogenesis
+gga00020	Citrate cycle (TCA cycle)
+gga00030	Pentose phosphate pathway
+gga00040	Pentose and glucuronate interconversions
+gga00051	Fructose and mannose metabolism
+gga00052	Galactose metabolism
+gga00053	Ascorbate and aldarate metabolism
+gga00500	Starch and sucrose metabolism
+gga00520	Amino sugar and nucleotide sugar metabolism
+gga00620	Pyruvate metabolism
+gga00630	Glyoxylate and dicarboxylate metabolism
+gga00640	Propanoate metabolism
+gga00650	Butanoate metabolism
+gga00660	C5-Branched dibasic acid metabolism
+gga00562	Inositol phosphate metabolism
+gga00190	Oxidative phosphorylation
+gga00195	Photosynthesis
+gga00196	Photosynthesis - antenna proteins
+gga00710	Carbon fixation in photosynthetic organisms
+gga00720	Carbon fixation pathways in prokaryotes
+gga00680	Methane metabolism
+gga00910	Nitrogen metabolism
+gga00920	Sulfur metabolism
+gga00061	Fatty acid biosynthesis
+gga00062	Fatty acid elongation
+gga00071	Fatty acid degradation
+gga00073	Cutin, suberine and wax biosynthesis
+gga00100	Steroid biosynthesis
+gga00120	Primary bile acid biosynthesis
+gga00121	Secondary bile acid biosynthesis
+gga00140	Steroid hormone biosynthesis
+gga00561	Glycerolipid metabolism
+gga00564	Glycerophospholipid metabolism
+gga00565	Ether lipid metabolism
+gga00600	Sphingolipid metabolism
+gga00590	Arachidonic acid metabolism
+gga00591	Linoleic acid metabolism
+gga00592	alpha-Linolenic acid metabolism
+gga01040	Biosynthesis of unsaturated fatty acids
+gga00230	Purine metabolism
+gga00240	Pyrimidine metabolism
+gga00250	Alanine, aspartate and glutamate metabolism
+gga00260	Glycine, serine and threonine metabolism
+gga00270	Cysteine and methionine metabolism
+gga00280	Valine, leucine and isoleucine degradation
+gga00290	Valine, leucine and isoleucine biosynthesis
+gga00300	Lysine biosynthesis
+gga00310	Lysine degradation
+gga00220	Arginine biosynthesis
+gga00330	Arginine and proline metabolism
+gga00340	Histidine metabolism
+gga00350	Tyrosine metabolism
+gga00360	Phenylalanine metabolism
+gga00380	Tryptophan metabolism
+gga00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+gga00410	beta-Alanine metabolism
+gga00430	Taurine and hypotaurine metabolism
+gga00440	Phosphonate and phosphinate metabolism
+gga00450	Selenocompound metabolism
+gga00460	Cyanoamino acid metabolism
+gga00470	D-Amino acid metabolism
+gga00480	Glutathione metabolism
+gga00510	N-Glycan biosynthesis
+gga00513	Various types of N-glycan biosynthesis
+gga00512	Mucin type O-glycan biosynthesis
+gga00515	Mannose type O-glycan biosynthesis
+gga00514	Other types of O-glycan biosynthesis
+gga00532	Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate
+gga00534	Glycosaminoglycan biosynthesis - heparan sulfate / heparin
+gga00533	Glycosaminoglycan biosynthesis - keratan sulfate
+gga00531	Glycosaminoglycan degradation
+gga00563	Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+gga00601	Glycosphingolipid biosynthesis - lacto and neolacto series
+gga00603	Glycosphingolipid biosynthesis - globo and isoglobo series
+gga00604	Glycosphingolipid biosynthesis - ganglio series
+gga00511	Other glycan degradation
+gga00540	Lipopolysaccharide biosynthesis
+gga00542	O-Antigen repeat unit biosynthesis
+gga00541	O-Antigen nucleotide sugar biosynthesis
+gga00550	Peptidoglycan biosynthesis
+gga00552	Teichoic acid biosynthesis
+gga00571	Lipoarabinomannan (LAM) biosynthesis
+gga00572	Arabinogalactan biosynthesis - Mycobacterium
+gga00543	Exopolysaccharide biosynthesis
+gga00730	Thiamine metabolism
+gga00740	Riboflavin metabolism
+gga00750	Vitamin B6 metabolism
+gga00760	Nicotinate and nicotinamide metabolism
+gga00770	Pantothenate and CoA biosynthesis
+gga00780	Biotin metabolism
+gga00785	Lipoic acid metabolism
+gga00790	Folate biosynthesis
+gga00670	One carbon pool by folate
+gga00830	Retinol metabolism
+gga00860	Porphyrin metabolism
+gga00130	Ubiquinone and other terpenoid-quinone biosynthesis
+gga00900	Terpenoid backbone biosynthesis
+gga00902	Monoterpenoid biosynthesis
+gga00909	Sesquiterpenoid and triterpenoid biosynthesis
+gga00904	Diterpenoid biosynthesis
+gga00906	Carotenoid biosynthesis
+gga00905	Brassinosteroid biosynthesis
+gga00981	Insect hormone biosynthesis
+gga00908	Zeatin biosynthesis
+gga00903	Limonene degradation
+gga00907	Pinene, camphor and geraniol degradation
+gga01052	Type I polyketide structures
+gga00522	Biosynthesis of 12-, 14- and 16-membered macrolides
+gga01051	Biosynthesis of ansamycins
+gga01059	Biosynthesis of enediyne antibiotics
+gga01056	Biosynthesis of type II polyketide backbone
+gga01057	Biosynthesis of type II polyketide products
+gga00253	Tetracycline biosynthesis
+gga00523	Polyketide sugar unit biosynthesis
+gga01054	Nonribosomal peptide structures
+gga01053	Biosynthesis of siderophore group nonribosomal peptides
+gga01055	Biosynthesis of vancomycin group antibiotics
+gga00940	Phenylpropanoid biosynthesis
+gga00945	Stilbenoid, diarylheptanoid and gingerol biosynthesis
+gga00941	Flavonoid biosynthesis
+gga00944	Flavone and flavonol biosynthesis
+gga00942	Anthocyanin biosynthesis
+gga00943	Isoflavonoid biosynthesis
+gga00946	Degradation of flavonoids
+gga00901	Indole alkaloid biosynthesis
+gga00403	Indole diterpene alkaloid biosynthesis
+gga00950	Isoquinoline alkaloid biosynthesis
+gga00960	Tropane, piperidine and pyridine alkaloid biosynthesis
+gga00996	Biosynthesis of various alkaloids
+gga00232	Caffeine metabolism
+gga00965	Betalain biosynthesis
+gga00966	Glucosinolate biosynthesis
+gga00402	Benzoxazinoid biosynthesis
+gga00311	Penicillin and cephalosporin biosynthesis
+gga00332	Carbapenem biosynthesis
+gga00261	Monobactam biosynthesis
+gga00331	Clavulanic acid biosynthesis
+gga00521	Streptomycin biosynthesis
+gga00524	Neomycin, kanamycin and gentamicin biosynthesis
+gga00525	Acarbose and validamycin biosynthesis
+gga00401	Novobiocin biosynthesis
+gga00404	Staurosporine biosynthesis
+gga00405	Phenazine biosynthesis
+gga00333	Prodigiosin biosynthesis
+gga00254	Aflatoxin biosynthesis
+gga00998	Biosynthesis of various antibiotics
+gga00999	Biosynthesis of various plant secondary metabolites
+gga00997	Biosynthesis of various other secondary metabolites
+gga00362	Benzoate degradation
+gga00627	Aminobenzoate degradation
+gga00364	Fluorobenzoate degradation
+gga00625	Chloroalkane and chloroalkene degradation
+gga00361	Chlorocyclohexane and chlorobenzene degradation
+gga00623	Toluene degradation
+gga00622	Xylene degradation
+gga00633	Nitrotoluene degradation
+gga00642	Ethylbenzene degradation
+gga00643	Styrene degradation
+gga00791	Atrazine degradation
+gga00930	Caprolactam degradation
+gga00363	Bisphenol degradation
+gga00621	Dioxin degradation
+gga00626	Naphthalene degradation
+gga00624	Polycyclic aromatic hydrocarbon degradation
+gga00365	Furfural degradation
+gga00984	Steroid degradation
+gga00980	Metabolism of xenobiotics by cytochrome P450
+gga00982	Drug metabolism - cytochrome P450
+gga00983	Drug metabolism - other enzymes
+gga01010	Overview of biosynthetic pathways
+gga01060	Biosynthesis of plant secondary metabolites
+gga01061	Biosynthesis of phenylpropanoids
+gga01062	Biosynthesis of terpenoids and steroids
+gga01063	Biosynthesis of alkaloids derived from shikimate pathway
+gga01064	Biosynthesis of alkaloids derived from ornithine, lysine and nicotinic acid
+gga01065	Biosynthesis of alkaloids derived from histidine and purine
+gga01066	Biosynthesis of alkaloids derived from terpenoid and polyketide
+gga01070	Biosynthesis of plant hormones
+gga03020	RNA polymerase
+gga03022	Basal transcription factors
+gga03040	Spliceosome
+gga03010	Ribosome
+gga00970	Aminoacyl-tRNA biosynthesis
+gga03013	Nucleocytoplasmic transport
+gga03015	mRNA surveillance pathway
+gga03008	Ribosome biogenesis in eukaryotes
+gga03060	Protein export
+gga04141	Protein processing in endoplasmic reticulum
+gga04130	SNARE interactions in vesicular transport
+gga04120	Ubiquitin mediated proteolysis
+gga04122	Sulfur relay system
+gga03050	Proteasome
+gga03018	RNA degradation
+gga03030	DNA replication
+gga03410	Base excision repair
+gga03420	Nucleotide excision repair
+gga03430	Mismatch repair
+gga03440	Homologous recombination
+gga03450	Non-homologous end-joining
+gga03460	Fanconi anemia pathway
+gga03082	ATP-dependent chromatin remodeling
+gga03083	Polycomb repressive complex
+gga03230	Viral genome structure
+gga03240	Viral replication
+gga03250	Viral life cycle - HIV-1
+gga03260	Virion - Human immunodeficiency virus
+gga03262	Virion - Coronavirus
+gga03261	Virion - Influenza A virus
+gga03263	Virion - Enterovirus
+gga03264	Virion - Flavivirus
+gga03265	Virion - Lyssavirus
+gga03266	Virion - Herpesvirus
+gga03268	Virion - Orthopoxvirus
+gga03267	Virion - Adenovirus
+gga03269	Virion - Bacteriophage T4
+gga03259	Virion - Bacteriophage T7
+gga02010	ABC transporters
+gga02060	Phosphotransferase system (PTS)
+gga03070	Bacterial secretion system
+gga02020	Two-component system
+gga04010	MAPK signaling pathway
+gga04013	MAPK signaling pathway - fly
+gga04016	MAPK signaling pathway - plant
+gga04011	MAPK signaling pathway - yeast
+gga04012	ErbB signaling pathway
+gga04014	Ras signaling pathway
+gga04015	Rap1 signaling pathway
+gga04310	Wnt signaling pathway
+gga04330	Notch signaling pathway
+gga04340	Hedgehog signaling pathway
+gga04341	Hedgehog signaling pathway - fly
+gga04350	TGF-beta signaling pathway
+gga04390	Hippo signaling pathway
+gga04391	Hippo signaling pathway - fly
+gga04392	Hippo signaling pathway - multiple species
+gga04370	VEGF signaling pathway
+gga04371	Apelin signaling pathway
+gga04630	JAK-STAT signaling pathway
+gga04064	NF-kappa B signaling pathway
+gga04668	TNF signaling pathway
+gga04066	HIF-1 signaling pathway
+gga04068	FoxO signaling pathway
+gga04020	Calcium signaling pathway
+gga04070	Phosphatidylinositol signaling system
+gga04072	Phospholipase D signaling pathway
+gga04071	Sphingolipid signaling pathway
+gga04024	cAMP signaling pathway
+gga04022	cGMP-PKG signaling pathway
+gga04151	PI3K-Akt signaling pathway
+gga04152	AMPK signaling pathway
+gga04150	mTOR signaling pathway
+gga04075	Plant hormone signal transduction
+gga04080	Neuroactive ligand-receptor interaction
+gga04060	Cytokine-cytokine receptor interaction
+gga04061	Viral protein interaction with cytokine and cytokine receptor
+gga04512	ECM-receptor interaction
+gga04514	Cell adhesion molecules
+gga04144	Endocytosis
+gga04145	Phagosome
+gga04142	Lysosome
+gga04146	Peroxisome
+gga04140	Autophagy - animal
+gga04138	Autophagy - yeast
+gga04136	Autophagy - other
+gga04137	Mitophagy - animal
+gga04139	Mitophagy - yeast
+gga04148	Efferocytosis
+gga04110	Cell cycle
+gga04111	Cell cycle - yeast
+gga04112	Cell cycle - Caulobacter
+gga04113	Meiosis - yeast
+gga04114	Oocyte meiosis
+gga04210	Apoptosis
+gga04214	Apoptosis - fly
+gga04215	Apoptosis - multiple species
+gga04216	Ferroptosis
+gga04217	Necroptosis
+gga04115	p53 signaling pathway
+gga04218	Cellular senescence
+gga04510	Focal adhesion
+gga04520	Adherens junction
+gga04530	Tight junction
+gga04540	Gap junction
+gga04550	Signaling pathways regulating pluripotency of stem cells
+gga02024	Quorum sensing
+gga05111	Biofilm formation - Vibrio cholerae
+gga02025	Biofilm formation - Pseudomonas aeruginosa
+gga02026	Biofilm formation - Escherichia coli
+gga02030	Bacterial chemotaxis
+gga02040	Flagellar assembly
+gga04814	Motor proteins
+gga04810	Regulation of actin cytoskeleton
+gga04640	Hematopoietic cell lineage
+gga04610	Complement and coagulation cascades
+gga04611	Platelet activation
+gga04613	Neutrophil extracellular trap formation
+gga04620	Toll-like receptor signaling pathway
+gga04624	Toll and Imd signaling pathway
+gga04621	NOD-like receptor signaling pathway
+gga04622	RIG-I-like receptor signaling pathway
+gga04623	Cytosolic DNA-sensing pathway
+gga04625	C-type lectin receptor signaling pathway
+gga04650	Natural killer cell mediated cytotoxicity
+gga04612	Antigen processing and presentation
+gga04660	T cell receptor signaling pathway
+gga04658	Th1 and Th2 cell differentiation
+gga04659	Th17 cell differentiation
+gga04657	IL-17 signaling pathway
+gga04662	B cell receptor signaling pathway
+gga04664	Fc epsilon RI signaling pathway
+gga04666	Fc gamma R-mediated phagocytosis
+gga04670	Leukocyte transendothelial migration
+gga04672	Intestinal immune network for IgA production
+gga04062	Chemokine signaling pathway
+gga04911	Insulin secretion
+gga04910	Insulin signaling pathway
+gga04922	Glucagon signaling pathway
+gga04923	Regulation of lipolysis in adipocytes
+gga04920	Adipocytokine signaling pathway
+gga03320	PPAR signaling pathway
+gga04929	GnRH secretion
+gga04912	GnRH signaling pathway
+gga04913	Ovarian steroidogenesis
+gga04915	Estrogen signaling pathway
+gga04914	Progesterone-mediated oocyte maturation
+gga04917	Prolactin signaling pathway
+gga04921	Oxytocin signaling pathway
+gga04926	Relaxin signaling pathway
+gga04935	Growth hormone synthesis, secretion and action
+gga04918	Thyroid hormone synthesis
+gga04919	Thyroid hormone signaling pathway
+gga04928	Parathyroid hormone synthesis, secretion and action
+gga04916	Melanogenesis
+gga04924	Renin secretion
+gga04614	Renin-angiotensin system
+gga04925	Aldosterone synthesis and secretion
+gga04927	Cortisol synthesis and secretion
+gga04260	Cardiac muscle contraction
+gga04261	Adrenergic signaling in cardiomyocytes
+gga04270	Vascular smooth muscle contraction
+gga04970	Salivary secretion
+gga04971	Gastric acid secretion
+gga04972	Pancreatic secretion
+gga04976	Bile secretion
+gga04973	Carbohydrate digestion and absorption
+gga04974	Protein digestion and absorption
+gga04975	Fat digestion and absorption
+gga04979	Cholesterol metabolism
+gga04977	Vitamin digestion and absorption
+gga04978	Mineral absorption
+gga04962	Vasopressin-regulated water reabsorption
+gga04960	Aldosterone-regulated sodium reabsorption
+gga04961	Endocrine and other factor-regulated calcium reabsorption
+gga04964	Proximal tubule bicarbonate reclamation
+gga04966	Collecting duct acid secretion
+gga04724	Glutamatergic synapse
+gga04727	GABAergic synapse
+gga04725	Cholinergic synapse
+gga04728	Dopaminergic synapse
+gga04726	Serotonergic synapse
+gga04720	Long-term potentiation
+gga04730	Long-term depression
+gga04723	Retrograde endocannabinoid signaling
+gga04721	Synaptic vesicle cycle
+gga04722	Neurotrophin signaling pathway
+gga04744	Phototransduction
+gga04745	Phototransduction - fly
+gga04740	Olfactory transduction
+gga04742	Taste transduction
+gga04750	Inflammatory mediator regulation of TRP channels
+gga04320	Dorso-ventral axis formation
+gga04360	Axon guidance
+gga04361	Axon regeneration
+gga04380	Osteoclast differentiation
+gga04211	Longevity regulating pathway
+gga04212	Longevity regulating pathway - worm
+gga04213	Longevity regulating pathway - multiple species
+gga04710	Circadian rhythm
+gga04713	Circadian entrainment
+gga04711	Circadian rhythm - fly
+gga04712	Circadian rhythm - plant
+gga04714	Thermogenesis
+gga04626	Plant-pathogen interaction
+gga05200	Pathways in cancer
+gga05202	Transcriptional misregulation in cancer
+gga05206	MicroRNAs in cancer
+gga05205	Proteoglycans in cancer
+gga05204	Chemical carcinogenesis - DNA adducts
+gga05207	Chemical carcinogenesis - receptor activation
+gga05208	Chemical carcinogenesis - reactive oxygen species
+gga05203	Viral carcinogenesis
+gga05230	Central carbon metabolism in cancer
+gga05231	Choline metabolism in cancer
+gga05235	PD-L1 expression and PD-1 checkpoint pathway in cancer
+gga05210	Colorectal cancer
+gga05212	Pancreatic cancer
+gga05225	Hepatocellular carcinoma
+gga05226	Gastric cancer
+gga05214	Glioma
+gga05216	Thyroid cancer
+gga05221	Acute myeloid leukemia
+gga05220	Chronic myeloid leukemia
+gga05217	Basal cell carcinoma
+gga05218	Melanoma
+gga05211	Renal cell carcinoma
+gga05219	Bladder cancer
+gga05215	Prostate cancer
+gga05213	Endometrial cancer
+gga05224	Breast cancer
+gga05222	Small cell lung cancer
+gga05223	Non-small cell lung cancer
+gga05166	Human T-cell leukemia virus 1 infection
+gga05170	Human immunodeficiency virus 1 infection
+gga05161	Hepatitis B
+gga05160	Hepatitis C
+gga05171	Coronavirus disease - COVID-19
+gga05164	Influenza A
+gga05162	Measles
+gga05168	Herpes simplex virus 1 infection
+gga05163	Human cytomegalovirus infection
+gga05167	Kaposi sarcoma-associated herpesvirus infection
+gga05169	Epstein-Barr virus infection
+gga05165	Human papillomavirus infection
+gga05110	Vibrio cholerae infection
+gga05120	Epithelial cell signaling in Helicobacter pylori infection
+gga05130	Pathogenic Escherichia coli infection
+gga05132	Salmonella infection
+gga05131	Shigellosis
+gga05135	Yersinia infection
+gga05133	Pertussis
+gga05134	Legionellosis
+gga05150	Staphylococcus aureus infection
+gga05152	Tuberculosis
+gga05100	Bacterial invasion of epithelial cells
+gga05146	Amoebiasis
+gga05144	Malaria
+gga05145	Toxoplasmosis
+gga05140	Leishmaniasis
+gga05142	Chagas disease
+gga05143	African trypanosomiasis
+gga05310	Asthma
+gga05322	Systemic lupus erythematosus
+gga05323	Rheumatoid arthritis
+gga05320	Autoimmune thyroid disease
+gga05321	Inflammatory bowel disease
+gga05330	Allograft rejection
+gga05332	Graft-versus-host disease
+gga05340	Primary immunodeficiency
+gga05010	Alzheimer disease
+gga05012	Parkinson disease
+gga05014	Amyotrophic lateral sclerosis
+gga05016	Huntington disease
+gga05017	Spinocerebellar ataxia
+gga05020	Prion disease
+gga05022	Pathways of neurodegeneration - multiple diseases
+gga05030	Cocaine addiction
+gga05031	Amphetamine addiction
+gga05032	Morphine addiction
+gga05033	Nicotine addiction
+gga05034	Alcoholism
+gga05417	Lipid and atherosclerosis
+gga05418	Fluid shear stress and atherosclerosis
+gga05410	Hypertrophic cardiomyopathy
+gga05412	Arrhythmogenic right ventricular cardiomyopathy
+gga05414	Dilated cardiomyopathy
+gga05415	Diabetic cardiomyopathy
+gga05416	Viral myocarditis
+gga04930	Type II diabetes mellitus
+gga04940	Type I diabetes mellitus
+gga04950	Maturity onset diabetes of the young
+gga04936	Alcoholic liver disease
+gga04932	Non-alcoholic fatty liver disease
+gga04931	Insulin resistance
+gga04933	AGE-RAGE signaling pathway in diabetic complications
+gga04934	Cushing syndrome
+gga01501	beta-Lactam resistance
+gga01502	Vancomycin resistance
+gga01503	Cationic antimicrobial peptide (CAMP) resistance
+gga01521	EGFR tyrosine kinase inhibitor resistance
+gga01524	Platinum drug resistance
+gga01523	Antifolate resistance
+gga01522	Endocrine resistance
+gga07011	Penicillins
+gga07012	Cephalosporins - parenteral agents
+gga07013	Cephalosporins - oral agents
+gga07021	Aminoglycosides
+gga07019	Tetracyclines
+gga07020	Macrolides and ketolides
+gga07014	Quinolones
+gga07023	Rifamycins
+gga07026	Antifungal agents
+gga07044	Antiviral agents
+gga07053	Anti-HIV agents
+gga07040	Antineoplastics - alkylating agents
+gga07041	Antineoplastics - antimetabolic agents
+gga07042	Antineoplastics - agents from natural products
+gga07043	Antineoplastics - hormones
+gga07045	Antineoplastics - protein kinase inhibitors
+gga07032	Hypnotics
+gga07030	Anxiolytics
+gga07033	Anticonvulsants
+gga07015	Local analgesics
+gga07039	Opioid analgesics
+gga07028	Antipsychotics
+gga07029	Antipsychotics - phenothiazines
+gga07031	Antipsychotics - butyrophenones
+gga07027	Antidepressants
+gga07056	Agents for Alzheimer-type dementia
+gga07057	Antiparkinsonian agents
+gga07055	Sulfonamide derivatives - overview
+gga07016	Sulfonamide derivatives - sulfa drugs
+gga07017	Sulfonamide derivatives - diuretics
+gga07018	Sulfonamide derivatives - hypoglycemic agents
+gga07037	Antiarrhythmic drugs
+gga07038	Antiulcer drugs
+gga07046	Immunosuppressive agents
+gga07047	Osteoporosis drugs
+gga07048	Antimigraines
+gga07049	Antithrombosis agents
+gga07050	Antirheumatics - DMARDs and biological agents
+gga07051	Antidiabetics
+gga07052	Antidyslipidemic agents
+gga07054	Antiglaucoma agents
+gga07220	Cholinergic and anticholinergic drugs
+gga07215	alpha-Adrenergic receptor agonists/antagonists
+gga07214	beta-Adrenergic receptor agonists/antagonists
+gga07213	Dopamine receptor agonists/antagonists
+gga07212	Histamine H1 receptor antagonists
+gga07227	Histamine H2/H3 receptor agonists/antagonists
+gga07211	Serotonin receptor agonists/antagonists
+gga07228	Eicosanoid receptor agonists/antagonists
+gga07224	Opioid receptor agonists/antagonists
+gga07229	Angiotensin receptor and endothelin receptor antagonists
+gga07225	Glucocorticoid and mineralocorticoid receptor agonists/antagonists
+gga07226	Progesterone, androgen and estrogen receptor agonists/antagonists
+gga07223	Retinoic acid receptor (RAR) and retinoid X receptor (RXR) agonists/antagonists
+gga07222	Peroxisome proliferator-activated receptor (PPAR) agonists
+gga07221	Nicotinic cholinergic receptor antagonists
+gga07230	GABA-A receptor agonists/antagonists
+gga07036	Calcium channel blocking drugs
+gga07231	Sodium channel blocking drugs
+gga07232	Potassium channel blocking and opening drugs
+gga07235	N-Methyl-D-aspartic acid (NMDA) receptor antagonists
+gga07233	Ion transporter inhibitors
+gga07234	Neurotransmitter transporter inhibitors
+gga07216	Catecholamine transferase inhibitors
+gga07219	Cyclooxygenase inhibitors
+gga07024	HMG-CoA reductase inhibitors
+gga07217	Renin-angiotensin system inhibitors
+gga07218	HIV protease inhibitors
+gga07025	Quinolines
+gga07034	Eicosanoids
+gga07035	Prostaglandins
+gga07110	Benzoic acid family
+gga07112	1,2-Diphenyl substitution family
+gga07114	Naphthalene family
+gga07117	Benzodiazepine family

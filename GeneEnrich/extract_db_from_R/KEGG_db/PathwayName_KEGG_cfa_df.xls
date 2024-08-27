@@ -1,0 +1,569 @@
+pathid	pathname
+cfa01100	Metabolic pathways
+cfa01110	Biosynthesis of secondary metabolites
+cfa01120	Microbial metabolism in diverse environments
+cfa01200	Carbon metabolism
+cfa01210	2-Oxocarboxylic acid metabolism
+cfa01212	Fatty acid metabolism
+cfa01230	Biosynthesis of amino acids
+cfa01232	Nucleotide metabolism
+cfa01250	Biosynthesis of nucleotide sugars
+cfa01240	Biosynthesis of cofactors
+cfa01220	Degradation of aromatic compounds
+cfa00010	Glycolysis / Gluconeogenesis
+cfa00020	Citrate cycle (TCA cycle)
+cfa00030	Pentose phosphate pathway
+cfa00040	Pentose and glucuronate interconversions
+cfa00051	Fructose and mannose metabolism
+cfa00052	Galactose metabolism
+cfa00053	Ascorbate and aldarate metabolism
+cfa00500	Starch and sucrose metabolism
+cfa00520	Amino sugar and nucleotide sugar metabolism
+cfa00620	Pyruvate metabolism
+cfa00630	Glyoxylate and dicarboxylate metabolism
+cfa00640	Propanoate metabolism
+cfa00650	Butanoate metabolism
+cfa00660	C5-Branched dibasic acid metabolism
+cfa00562	Inositol phosphate metabolism
+cfa00190	Oxidative phosphorylation
+cfa00195	Photosynthesis
+cfa00196	Photosynthesis - antenna proteins
+cfa00710	Carbon fixation in photosynthetic organisms
+cfa00720	Carbon fixation pathways in prokaryotes
+cfa00680	Methane metabolism
+cfa00910	Nitrogen metabolism
+cfa00920	Sulfur metabolism
+cfa00061	Fatty acid biosynthesis
+cfa00062	Fatty acid elongation
+cfa00071	Fatty acid degradation
+cfa00073	Cutin, suberine and wax biosynthesis
+cfa00100	Steroid biosynthesis
+cfa00120	Primary bile acid biosynthesis
+cfa00121	Secondary bile acid biosynthesis
+cfa00140	Steroid hormone biosynthesis
+cfa00561	Glycerolipid metabolism
+cfa00564	Glycerophospholipid metabolism
+cfa00565	Ether lipid metabolism
+cfa00600	Sphingolipid metabolism
+cfa00590	Arachidonic acid metabolism
+cfa00591	Linoleic acid metabolism
+cfa00592	alpha-Linolenic acid metabolism
+cfa01040	Biosynthesis of unsaturated fatty acids
+cfa00230	Purine metabolism
+cfa00240	Pyrimidine metabolism
+cfa00250	Alanine, aspartate and glutamate metabolism
+cfa00260	Glycine, serine and threonine metabolism
+cfa00270	Cysteine and methionine metabolism
+cfa00280	Valine, leucine and isoleucine degradation
+cfa00290	Valine, leucine and isoleucine biosynthesis
+cfa00300	Lysine biosynthesis
+cfa00310	Lysine degradation
+cfa00220	Arginine biosynthesis
+cfa00330	Arginine and proline metabolism
+cfa00340	Histidine metabolism
+cfa00350	Tyrosine metabolism
+cfa00360	Phenylalanine metabolism
+cfa00380	Tryptophan metabolism
+cfa00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+cfa00410	beta-Alanine metabolism
+cfa00430	Taurine and hypotaurine metabolism
+cfa00440	Phosphonate and phosphinate metabolism
+cfa00450	Selenocompound metabolism
+cfa00460	Cyanoamino acid metabolism
+cfa00470	D-Amino acid metabolism
+cfa00480	Glutathione metabolism
+cfa00510	N-Glycan biosynthesis
+cfa00513	Various types of N-glycan biosynthesis
+cfa00512	Mucin type O-glycan biosynthesis
+cfa00515	Mannose type O-glycan biosynthesis
+cfa00514	Other types of O-glycan biosynthesis
+cfa00532	Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate
+cfa00534	Glycosaminoglycan biosynthesis - heparan sulfate / heparin
+cfa00533	Glycosaminoglycan biosynthesis - keratan sulfate
+cfa00531	Glycosaminoglycan degradation
+cfa00563	Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+cfa00601	Glycosphingolipid biosynthesis - lacto and neolacto series
+cfa00603	Glycosphingolipid biosynthesis - globo and isoglobo series
+cfa00604	Glycosphingolipid biosynthesis - ganglio series
+cfa00511	Other glycan degradation
+cfa00540	Lipopolysaccharide biosynthesis
+cfa00542	O-Antigen repeat unit biosynthesis
+cfa00541	O-Antigen nucleotide sugar biosynthesis
+cfa00550	Peptidoglycan biosynthesis
+cfa00552	Teichoic acid biosynthesis
+cfa00571	Lipoarabinomannan (LAM) biosynthesis
+cfa00572	Arabinogalactan biosynthesis - Mycobacterium
+cfa00543	Exopolysaccharide biosynthesis
+cfa00730	Thiamine metabolism
+cfa00740	Riboflavin metabolism
+cfa00750	Vitamin B6 metabolism
+cfa00760	Nicotinate and nicotinamide metabolism
+cfa00770	Pantothenate and CoA biosynthesis
+cfa00780	Biotin metabolism
+cfa00785	Lipoic acid metabolism
+cfa00790	Folate biosynthesis
+cfa00670	One carbon pool by folate
+cfa00830	Retinol metabolism
+cfa00860	Porphyrin metabolism
+cfa00130	Ubiquinone and other terpenoid-quinone biosynthesis
+cfa00900	Terpenoid backbone biosynthesis
+cfa00902	Monoterpenoid biosynthesis
+cfa00909	Sesquiterpenoid and triterpenoid biosynthesis
+cfa00904	Diterpenoid biosynthesis
+cfa00906	Carotenoid biosynthesis
+cfa00905	Brassinosteroid biosynthesis
+cfa00981	Insect hormone biosynthesis
+cfa00908	Zeatin biosynthesis
+cfa00903	Limonene degradation
+cfa00907	Pinene, camphor and geraniol degradation
+cfa01052	Type I polyketide structures
+cfa00522	Biosynthesis of 12-, 14- and 16-membered macrolides
+cfa01051	Biosynthesis of ansamycins
+cfa01059	Biosynthesis of enediyne antibiotics
+cfa01056	Biosynthesis of type II polyketide backbone
+cfa01057	Biosynthesis of type II polyketide products
+cfa00253	Tetracycline biosynthesis
+cfa00523	Polyketide sugar unit biosynthesis
+cfa01054	Nonribosomal peptide structures
+cfa01053	Biosynthesis of siderophore group nonribosomal peptides
+cfa01055	Biosynthesis of vancomycin group antibiotics
+cfa00940	Phenylpropanoid biosynthesis
+cfa00945	Stilbenoid, diarylheptanoid and gingerol biosynthesis
+cfa00941	Flavonoid biosynthesis
+cfa00944	Flavone and flavonol biosynthesis
+cfa00942	Anthocyanin biosynthesis
+cfa00943	Isoflavonoid biosynthesis
+cfa00946	Degradation of flavonoids
+cfa00901	Indole alkaloid biosynthesis
+cfa00403	Indole diterpene alkaloid biosynthesis
+cfa00950	Isoquinoline alkaloid biosynthesis
+cfa00960	Tropane, piperidine and pyridine alkaloid biosynthesis
+cfa00996	Biosynthesis of various alkaloids
+cfa00232	Caffeine metabolism
+cfa00965	Betalain biosynthesis
+cfa00966	Glucosinolate biosynthesis
+cfa00402	Benzoxazinoid biosynthesis
+cfa00311	Penicillin and cephalosporin biosynthesis
+cfa00332	Carbapenem biosynthesis
+cfa00261	Monobactam biosynthesis
+cfa00331	Clavulanic acid biosynthesis
+cfa00521	Streptomycin biosynthesis
+cfa00524	Neomycin, kanamycin and gentamicin biosynthesis
+cfa00525	Acarbose and validamycin biosynthesis
+cfa00401	Novobiocin biosynthesis
+cfa00404	Staurosporine biosynthesis
+cfa00405	Phenazine biosynthesis
+cfa00333	Prodigiosin biosynthesis
+cfa00254	Aflatoxin biosynthesis
+cfa00998	Biosynthesis of various antibiotics
+cfa00999	Biosynthesis of various plant secondary metabolites
+cfa00997	Biosynthesis of various other secondary metabolites
+cfa00362	Benzoate degradation
+cfa00627	Aminobenzoate degradation
+cfa00364	Fluorobenzoate degradation
+cfa00625	Chloroalkane and chloroalkene degradation
+cfa00361	Chlorocyclohexane and chlorobenzene degradation
+cfa00623	Toluene degradation
+cfa00622	Xylene degradation
+cfa00633	Nitrotoluene degradation
+cfa00642	Ethylbenzene degradation
+cfa00643	Styrene degradation
+cfa00791	Atrazine degradation
+cfa00930	Caprolactam degradation
+cfa00363	Bisphenol degradation
+cfa00621	Dioxin degradation
+cfa00626	Naphthalene degradation
+cfa00624	Polycyclic aromatic hydrocarbon degradation
+cfa00365	Furfural degradation
+cfa00984	Steroid degradation
+cfa00980	Metabolism of xenobiotics by cytochrome P450
+cfa00982	Drug metabolism - cytochrome P450
+cfa00983	Drug metabolism - other enzymes
+cfa01010	Overview of biosynthetic pathways
+cfa01060	Biosynthesis of plant secondary metabolites
+cfa01061	Biosynthesis of phenylpropanoids
+cfa01062	Biosynthesis of terpenoids and steroids
+cfa01063	Biosynthesis of alkaloids derived from shikimate pathway
+cfa01064	Biosynthesis of alkaloids derived from ornithine, lysine and nicotinic acid
+cfa01065	Biosynthesis of alkaloids derived from histidine and purine
+cfa01066	Biosynthesis of alkaloids derived from terpenoid and polyketide
+cfa01070	Biosynthesis of plant hormones
+cfa03020	RNA polymerase
+cfa03022	Basal transcription factors
+cfa03040	Spliceosome
+cfa03010	Ribosome
+cfa00970	Aminoacyl-tRNA biosynthesis
+cfa03013	Nucleocytoplasmic transport
+cfa03015	mRNA surveillance pathway
+cfa03008	Ribosome biogenesis in eukaryotes
+cfa03060	Protein export
+cfa04141	Protein processing in endoplasmic reticulum
+cfa04130	SNARE interactions in vesicular transport
+cfa04120	Ubiquitin mediated proteolysis
+cfa04122	Sulfur relay system
+cfa03050	Proteasome
+cfa03018	RNA degradation
+cfa03030	DNA replication
+cfa03410	Base excision repair
+cfa03420	Nucleotide excision repair
+cfa03430	Mismatch repair
+cfa03440	Homologous recombination
+cfa03450	Non-homologous end-joining
+cfa03460	Fanconi anemia pathway
+cfa03082	ATP-dependent chromatin remodeling
+cfa03083	Polycomb repressive complex
+cfa03230	Viral genome structure
+cfa03240	Viral replication
+cfa03250	Viral life cycle - HIV-1
+cfa03260	Virion - Human immunodeficiency virus
+cfa03262	Virion - Coronavirus
+cfa03261	Virion - Influenza A virus
+cfa03263	Virion - Enterovirus
+cfa03264	Virion - Flavivirus
+cfa03265	Virion - Lyssavirus
+cfa03266	Virion - Herpesvirus
+cfa03268	Virion - Orthopoxvirus
+cfa03267	Virion - Adenovirus
+cfa03269	Virion - Bacteriophage T4
+cfa03259	Virion - Bacteriophage T7
+cfa02010	ABC transporters
+cfa02060	Phosphotransferase system (PTS)
+cfa03070	Bacterial secretion system
+cfa02020	Two-component system
+cfa04010	MAPK signaling pathway
+cfa04013	MAPK signaling pathway - fly
+cfa04016	MAPK signaling pathway - plant
+cfa04011	MAPK signaling pathway - yeast
+cfa04012	ErbB signaling pathway
+cfa04014	Ras signaling pathway
+cfa04015	Rap1 signaling pathway
+cfa04310	Wnt signaling pathway
+cfa04330	Notch signaling pathway
+cfa04340	Hedgehog signaling pathway
+cfa04341	Hedgehog signaling pathway - fly
+cfa04350	TGF-beta signaling pathway
+cfa04390	Hippo signaling pathway
+cfa04391	Hippo signaling pathway - fly
+cfa04392	Hippo signaling pathway - multiple species
+cfa04370	VEGF signaling pathway
+cfa04371	Apelin signaling pathway
+cfa04630	JAK-STAT signaling pathway
+cfa04064	NF-kappa B signaling pathway
+cfa04668	TNF signaling pathway
+cfa04066	HIF-1 signaling pathway
+cfa04068	FoxO signaling pathway
+cfa04020	Calcium signaling pathway
+cfa04070	Phosphatidylinositol signaling system
+cfa04072	Phospholipase D signaling pathway
+cfa04071	Sphingolipid signaling pathway
+cfa04024	cAMP signaling pathway
+cfa04022	cGMP-PKG signaling pathway
+cfa04151	PI3K-Akt signaling pathway
+cfa04152	AMPK signaling pathway
+cfa04150	mTOR signaling pathway
+cfa04075	Plant hormone signal transduction
+cfa04080	Neuroactive ligand-receptor interaction
+cfa04060	Cytokine-cytokine receptor interaction
+cfa04061	Viral protein interaction with cytokine and cytokine receptor
+cfa04512	ECM-receptor interaction
+cfa04514	Cell adhesion molecules
+cfa04144	Endocytosis
+cfa04145	Phagosome
+cfa04142	Lysosome
+cfa04146	Peroxisome
+cfa04140	Autophagy - animal
+cfa04138	Autophagy - yeast
+cfa04136	Autophagy - other
+cfa04137	Mitophagy - animal
+cfa04139	Mitophagy - yeast
+cfa04148	Efferocytosis
+cfa04110	Cell cycle
+cfa04111	Cell cycle - yeast
+cfa04112	Cell cycle - Caulobacter
+cfa04113	Meiosis - yeast
+cfa04114	Oocyte meiosis
+cfa04210	Apoptosis
+cfa04214	Apoptosis - fly
+cfa04215	Apoptosis - multiple species
+cfa04216	Ferroptosis
+cfa04217	Necroptosis
+cfa04115	p53 signaling pathway
+cfa04218	Cellular senescence
+cfa04510	Focal adhesion
+cfa04520	Adherens junction
+cfa04530	Tight junction
+cfa04540	Gap junction
+cfa04550	Signaling pathways regulating pluripotency of stem cells
+cfa02024	Quorum sensing
+cfa05111	Biofilm formation - Vibrio cholerae
+cfa02025	Biofilm formation - Pseudomonas aeruginosa
+cfa02026	Biofilm formation - Escherichia coli
+cfa02030	Bacterial chemotaxis
+cfa02040	Flagellar assembly
+cfa04814	Motor proteins
+cfa04810	Regulation of actin cytoskeleton
+cfa04640	Hematopoietic cell lineage
+cfa04610	Complement and coagulation cascades
+cfa04611	Platelet activation
+cfa04613	Neutrophil extracellular trap formation
+cfa04620	Toll-like receptor signaling pathway
+cfa04624	Toll and Imd signaling pathway
+cfa04621	NOD-like receptor signaling pathway
+cfa04622	RIG-I-like receptor signaling pathway
+cfa04623	Cytosolic DNA-sensing pathway
+cfa04625	C-type lectin receptor signaling pathway
+cfa04650	Natural killer cell mediated cytotoxicity
+cfa04612	Antigen processing and presentation
+cfa04660	T cell receptor signaling pathway
+cfa04658	Th1 and Th2 cell differentiation
+cfa04659	Th17 cell differentiation
+cfa04657	IL-17 signaling pathway
+cfa04662	B cell receptor signaling pathway
+cfa04664	Fc epsilon RI signaling pathway
+cfa04666	Fc gamma R-mediated phagocytosis
+cfa04670	Leukocyte transendothelial migration
+cfa04672	Intestinal immune network for IgA production
+cfa04062	Chemokine signaling pathway
+cfa04911	Insulin secretion
+cfa04910	Insulin signaling pathway
+cfa04922	Glucagon signaling pathway
+cfa04923	Regulation of lipolysis in adipocytes
+cfa04920	Adipocytokine signaling pathway
+cfa03320	PPAR signaling pathway
+cfa04929	GnRH secretion
+cfa04912	GnRH signaling pathway
+cfa04913	Ovarian steroidogenesis
+cfa04915	Estrogen signaling pathway
+cfa04914	Progesterone-mediated oocyte maturation
+cfa04917	Prolactin signaling pathway
+cfa04921	Oxytocin signaling pathway
+cfa04926	Relaxin signaling pathway
+cfa04935	Growth hormone synthesis, secretion and action
+cfa04918	Thyroid hormone synthesis
+cfa04919	Thyroid hormone signaling pathway
+cfa04928	Parathyroid hormone synthesis, secretion and action
+cfa04916	Melanogenesis
+cfa04924	Renin secretion
+cfa04614	Renin-angiotensin system
+cfa04925	Aldosterone synthesis and secretion
+cfa04927	Cortisol synthesis and secretion
+cfa04260	Cardiac muscle contraction
+cfa04261	Adrenergic signaling in cardiomyocytes
+cfa04270	Vascular smooth muscle contraction
+cfa04970	Salivary secretion
+cfa04971	Gastric acid secretion
+cfa04972	Pancreatic secretion
+cfa04976	Bile secretion
+cfa04973	Carbohydrate digestion and absorption
+cfa04974	Protein digestion and absorption
+cfa04975	Fat digestion and absorption
+cfa04979	Cholesterol metabolism
+cfa04977	Vitamin digestion and absorption
+cfa04978	Mineral absorption
+cfa04962	Vasopressin-regulated water reabsorption
+cfa04960	Aldosterone-regulated sodium reabsorption
+cfa04961	Endocrine and other factor-regulated calcium reabsorption
+cfa04964	Proximal tubule bicarbonate reclamation
+cfa04966	Collecting duct acid secretion
+cfa04724	Glutamatergic synapse
+cfa04727	GABAergic synapse
+cfa04725	Cholinergic synapse
+cfa04728	Dopaminergic synapse
+cfa04726	Serotonergic synapse
+cfa04720	Long-term potentiation
+cfa04730	Long-term depression
+cfa04723	Retrograde endocannabinoid signaling
+cfa04721	Synaptic vesicle cycle
+cfa04722	Neurotrophin signaling pathway
+cfa04744	Phototransduction
+cfa04745	Phototransduction - fly
+cfa04740	Olfactory transduction
+cfa04742	Taste transduction
+cfa04750	Inflammatory mediator regulation of TRP channels
+cfa04320	Dorso-ventral axis formation
+cfa04360	Axon guidance
+cfa04361	Axon regeneration
+cfa04380	Osteoclast differentiation
+cfa04211	Longevity regulating pathway
+cfa04212	Longevity regulating pathway - worm
+cfa04213	Longevity regulating pathway - multiple species
+cfa04710	Circadian rhythm
+cfa04713	Circadian entrainment
+cfa04711	Circadian rhythm - fly
+cfa04712	Circadian rhythm - plant
+cfa04714	Thermogenesis
+cfa04626	Plant-pathogen interaction
+cfa05200	Pathways in cancer
+cfa05202	Transcriptional misregulation in cancer
+cfa05206	MicroRNAs in cancer
+cfa05205	Proteoglycans in cancer
+cfa05204	Chemical carcinogenesis - DNA adducts
+cfa05207	Chemical carcinogenesis - receptor activation
+cfa05208	Chemical carcinogenesis - reactive oxygen species
+cfa05203	Viral carcinogenesis
+cfa05230	Central carbon metabolism in cancer
+cfa05231	Choline metabolism in cancer
+cfa05235	PD-L1 expression and PD-1 checkpoint pathway in cancer
+cfa05210	Colorectal cancer
+cfa05212	Pancreatic cancer
+cfa05225	Hepatocellular carcinoma
+cfa05226	Gastric cancer
+cfa05214	Glioma
+cfa05216	Thyroid cancer
+cfa05221	Acute myeloid leukemia
+cfa05220	Chronic myeloid leukemia
+cfa05217	Basal cell carcinoma
+cfa05218	Melanoma
+cfa05211	Renal cell carcinoma
+cfa05219	Bladder cancer
+cfa05215	Prostate cancer
+cfa05213	Endometrial cancer
+cfa05224	Breast cancer
+cfa05222	Small cell lung cancer
+cfa05223	Non-small cell lung cancer
+cfa05166	Human T-cell leukemia virus 1 infection
+cfa05170	Human immunodeficiency virus 1 infection
+cfa05161	Hepatitis B
+cfa05160	Hepatitis C
+cfa05171	Coronavirus disease - COVID-19
+cfa05164	Influenza A
+cfa05162	Measles
+cfa05168	Herpes simplex virus 1 infection
+cfa05163	Human cytomegalovirus infection
+cfa05167	Kaposi sarcoma-associated herpesvirus infection
+cfa05169	Epstein-Barr virus infection
+cfa05165	Human papillomavirus infection
+cfa05110	Vibrio cholerae infection
+cfa05120	Epithelial cell signaling in Helicobacter pylori infection
+cfa05130	Pathogenic Escherichia coli infection
+cfa05132	Salmonella infection
+cfa05131	Shigellosis
+cfa05135	Yersinia infection
+cfa05133	Pertussis
+cfa05134	Legionellosis
+cfa05150	Staphylococcus aureus infection
+cfa05152	Tuberculosis
+cfa05100	Bacterial invasion of epithelial cells
+cfa05146	Amoebiasis
+cfa05144	Malaria
+cfa05145	Toxoplasmosis
+cfa05140	Leishmaniasis
+cfa05142	Chagas disease
+cfa05143	African trypanosomiasis
+cfa05310	Asthma
+cfa05322	Systemic lupus erythematosus
+cfa05323	Rheumatoid arthritis
+cfa05320	Autoimmune thyroid disease
+cfa05321	Inflammatory bowel disease
+cfa05330	Allograft rejection
+cfa05332	Graft-versus-host disease
+cfa05340	Primary immunodeficiency
+cfa05010	Alzheimer disease
+cfa05012	Parkinson disease
+cfa05014	Amyotrophic lateral sclerosis
+cfa05016	Huntington disease
+cfa05017	Spinocerebellar ataxia
+cfa05020	Prion disease
+cfa05022	Pathways of neurodegeneration - multiple diseases
+cfa05030	Cocaine addiction
+cfa05031	Amphetamine addiction
+cfa05032	Morphine addiction
+cfa05033	Nicotine addiction
+cfa05034	Alcoholism
+cfa05417	Lipid and atherosclerosis
+cfa05418	Fluid shear stress and atherosclerosis
+cfa05410	Hypertrophic cardiomyopathy
+cfa05412	Arrhythmogenic right ventricular cardiomyopathy
+cfa05414	Dilated cardiomyopathy
+cfa05415	Diabetic cardiomyopathy
+cfa05416	Viral myocarditis
+cfa04930	Type II diabetes mellitus
+cfa04940	Type I diabetes mellitus
+cfa04950	Maturity onset diabetes of the young
+cfa04936	Alcoholic liver disease
+cfa04932	Non-alcoholic fatty liver disease
+cfa04931	Insulin resistance
+cfa04933	AGE-RAGE signaling pathway in diabetic complications
+cfa04934	Cushing syndrome
+cfa01501	beta-Lactam resistance
+cfa01502	Vancomycin resistance
+cfa01503	Cationic antimicrobial peptide (CAMP) resistance
+cfa01521	EGFR tyrosine kinase inhibitor resistance
+cfa01524	Platinum drug resistance
+cfa01523	Antifolate resistance
+cfa01522	Endocrine resistance
+cfa07011	Penicillins
+cfa07012	Cephalosporins - parenteral agents
+cfa07013	Cephalosporins - oral agents
+cfa07021	Aminoglycosides
+cfa07019	Tetracyclines
+cfa07020	Macrolides and ketolides
+cfa07014	Quinolones
+cfa07023	Rifamycins
+cfa07026	Antifungal agents
+cfa07044	Antiviral agents
+cfa07053	Anti-HIV agents
+cfa07040	Antineoplastics - alkylating agents
+cfa07041	Antineoplastics - antimetabolic agents
+cfa07042	Antineoplastics - agents from natural products
+cfa07043	Antineoplastics - hormones
+cfa07045	Antineoplastics - protein kinase inhibitors
+cfa07032	Hypnotics
+cfa07030	Anxiolytics
+cfa07033	Anticonvulsants
+cfa07015	Local analgesics
+cfa07039	Opioid analgesics
+cfa07028	Antipsychotics
+cfa07029	Antipsychotics - phenothiazines
+cfa07031	Antipsychotics - butyrophenones
+cfa07027	Antidepressants
+cfa07056	Agents for Alzheimer-type dementia
+cfa07057	Antiparkinsonian agents
+cfa07055	Sulfonamide derivatives - overview
+cfa07016	Sulfonamide derivatives - sulfa drugs
+cfa07017	Sulfonamide derivatives - diuretics
+cfa07018	Sulfonamide derivatives - hypoglycemic agents
+cfa07037	Antiarrhythmic drugs
+cfa07038	Antiulcer drugs
+cfa07046	Immunosuppressive agents
+cfa07047	Osteoporosis drugs
+cfa07048	Antimigraines
+cfa07049	Antithrombosis agents
+cfa07050	Antirheumatics - DMARDs and biological agents
+cfa07051	Antidiabetics
+cfa07052	Antidyslipidemic agents
+cfa07054	Antiglaucoma agents
+cfa07220	Cholinergic and anticholinergic drugs
+cfa07215	alpha-Adrenergic receptor agonists/antagonists
+cfa07214	beta-Adrenergic receptor agonists/antagonists
+cfa07213	Dopamine receptor agonists/antagonists
+cfa07212	Histamine H1 receptor antagonists
+cfa07227	Histamine H2/H3 receptor agonists/antagonists
+cfa07211	Serotonin receptor agonists/antagonists
+cfa07228	Eicosanoid receptor agonists/antagonists
+cfa07224	Opioid receptor agonists/antagonists
+cfa07229	Angiotensin receptor and endothelin receptor antagonists
+cfa07225	Glucocorticoid and mineralocorticoid receptor agonists/antagonists
+cfa07226	Progesterone, androgen and estrogen receptor agonists/antagonists
+cfa07223	Retinoic acid receptor (RAR) and retinoid X receptor (RXR) agonists/antagonists
+cfa07222	Peroxisome proliferator-activated receptor (PPAR) agonists
+cfa07221	Nicotinic cholinergic receptor antagonists
+cfa07230	GABA-A receptor agonists/antagonists
+cfa07036	Calcium channel blocking drugs
+cfa07231	Sodium channel blocking drugs
+cfa07232	Potassium channel blocking and opening drugs
+cfa07235	N-Methyl-D-aspartic acid (NMDA) receptor antagonists
+cfa07233	Ion transporter inhibitors
+cfa07234	Neurotransmitter transporter inhibitors
+cfa07216	Catecholamine transferase inhibitors
+cfa07219	Cyclooxygenase inhibitors
+cfa07024	HMG-CoA reductase inhibitors
+cfa07217	Renin-angiotensin system inhibitors
+cfa07218	HIV protease inhibitors
+cfa07025	Quinolines
+cfa07034	Eicosanoids
+cfa07035	Prostaglandins
+cfa07110	Benzoic acid family
+cfa07112	1,2-Diphenyl substitution family
+cfa07114	Naphthalene family
+cfa07117	Benzodiazepine family
